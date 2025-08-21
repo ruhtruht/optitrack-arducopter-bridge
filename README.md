@@ -78,8 +78,7 @@ These values configure the EKF to use MAVLink VISION_POSITION_ESTIMATE data for 
 ## Setup Instructions
 
 1. Clone the repository:
-
-   ```bash
+```bash
    git clone https://github.com/ruhtruht/optitrack-arducopter-bridge.git
    cd optitrack-arducopter-bridge
 ````
@@ -138,5 +137,5 @@ MIT License. Open for research, prototyping, and academic teaching.
 
 ```
 
-Wenn du willst, kann ich zusätzlich noch ein `.bib`-Eintrag oder ein akademisches Abstract draus machen.
+
 ```
