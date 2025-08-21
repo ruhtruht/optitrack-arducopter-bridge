@@ -1,8 +1,5 @@
-Natürlich – hier ist das `README.md` vollständig und **kopierbereit** im Klartext. Du kannst es direkt in deine GitHub-Repo-Datei oder in einen Markdown-Editor einfügen:
 
----
 
-```markdown
 # optitrack-arducopter-bridge
 
 This repository contains a Python-based system for integrating OptiTrack motion capture data with MAVLink-enabled drones. It enables GPS-independent indoor navigation by converting motion capture position estimates (via the NatNet SDK) into real-time MAVLink messages, which are sent to a Pixhawk-based flight controller running ArduCopter firmware.
