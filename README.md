@@ -99,4 +99,4 @@ This repository is released under the MIT License. Usage for academic, research,
 
 To cite this project in academic work, please use the following format:
 
-[Author Name]. (2025). MoCapMAV: OptiTrack-Based Indoor Drone Navigation Using MAVLink [Computer software]. https://github.com/<your-username>/MoCapMAV
+[ruhruht]. (2025). MoCapMAV: OptiTrack-Based Indoor Drone Navigation Using MAVLink [Computer software]. https://github.com/ruhtruht/MoCapMAV
