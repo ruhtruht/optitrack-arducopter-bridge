@@ -1,6 +1,4 @@
 # optitrack-arducopter-bridge
-Make a Arducopter Drone Fly in Optitrack Setup via NatNetSDK and pyMavlink
-# MoCapMAV – OptiTrack-Based Indoor Drone Navigation Using MAVLink
 
 This repository contains a Python-based system for integrating OptiTrack motion capture data with MAVLink-enabled drones. It enables GPS-independent indoor navigation by converting motion capture position estimates (via the NatNet SDK) into real-time MAVLink messages, which are sent to a Pixhawk-based flight controller running ArduCopter firmware.
 
