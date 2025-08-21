@@ -1,100 +1,134 @@
+
 # optitrack-arducopter-bridge
 
 This repository contains a Python-based system for integrating OptiTrack motion capture data with MAVLink-enabled drones. It enables GPS-independent indoor navigation by converting motion capture position estimates (via the NatNet SDK) into real-time MAVLink messages, which are sent to a Pixhawk-based flight controller running ArduCopter firmware.
 
-The system was developed and tested in the context of an academic research project focused on autonomous aerial tracking of ground robots in indoor environments.
-
 ## Overview
 
-The project demonstrates a working pipeline that:
+The software stack implements a complete pipeline for indoor drone localization and navigation:
 
-- Receives real-time 6DOF position and orientation data from the OptiTrack system via the NatNet SDK
-- Converts position data from ENU to NED coordinates using quaternion-based transformations
-- Sends MAVLink VISION_POSITION_ESTIMATE messages at 20 Hz
-- Commands basic autonomous flight operations (arming, takeoff, land, waypoint tracking) in GUIDED mode
-- Integrates safety mechanisms including connection monitoring, AGV signal timeouts, and emergency land triggers
+- Real-time 6DOF motion capture via the OptiTrack NatNet SDK
+- Quaternion-based ENU to NED coordinate transformation
+- High-frequency (20 Hz) MAVLink message generation
+- Autopilot control using ArduPilot in GUIDED mode
+- System-level safety features: timeout detection, emergency land procedures, position validation
 
 ## Architecture
 
-OptiTrack Cameras → Motive → NatNet SDK (UDP) → Python Receiver  
-                         ↓  
-               Coordinate Transformation (ENU → NED)  
-                         ↓  
-                 MAVLink Command Generation  
-                         ↓  
-              ArduPilot Flight Controller (Pixhawk)
 
-## Components
 
-The implementation consists of modular Python scripts:
+OptiTrack Cameras → Motive → NatNet SDK (UDP) → Python Receiver
+↓
+Coordinate Transformation (ENU → NED)
+↓
+MAVLink Command Generation
+↓
+ArduPilot Flight Controller (Pixhawk)
 
-- qmed_follows_agv.py — Main controller for autonomous drone tracking
-- mavlink_controller.py — Encapsulation of pymavlink communication
-- natnet_tracker.py — UDP-based NatNet data receiver
-- coordinate_transform.py — Quaternion-based rotation and coordinate conversion
-- safety_config.py — Static safety parameter definitions
-- safety_checks.py — Real-time safety and timeout logic
-- vision_position_only.py — Position-only testing mode (no autonomous control)
-- hovertest.py — Minimal takeoff and hover script for stability testing
 
-Associated system logs and additional validation scripts are included in the /Anhang directory.
+
+## Repository Structure
+
+
+
+.
+├── qmed\_follows\_agv.py           # Main system controller
+├── mavlink\_controller.py         # MAVLink communication interface
+├── natnet\_tracker.py             # NatNet UDP receiver
+├── coordinate\_transform.py       # ENU → NED transformation logic
+├── safety\_config.py              # Configurable safety parameters
+├── safety\_checks.py              # Online safety checks and failsafes
+├── hovertest.py                  # Simple takeoff and hover stability test
+├── vision\_position\_only.py       # Position-only validation script
+├── cache/                        # System logs and recorded telemetry
+├── sdk/                          # Example scripts from the OptiTrack SDK
+└── README.md
+
 
 ## System Requirements
 
-- Python ≥ 3.8
-- pymavlink
-- numpy
-- Access to an OptiTrack motion capture system with NatNet broadcasting enabled
-- A MAVLink-capable drone (tested with Pixhawk on ArduCopter 4.x)
-- Network access to both the drone and OptiTrack streaming computer
+- Python ≥ 3.8  
+- `pymavlink`, `numpy`  
+- An OptiTrack system with Motive and NatNet streaming enabled  
+- A MAVLink-capable drone (e.g. Pixhawk on ArduCopter 4.x)  
+- Local network communication between PC and drone via telemetry or Wi-Fi
+
+## Flight Controller Configuration
+
+To enable the ArduPilot EKF to accept external vision data, several parameters must be changed from their defaults. The following table summarizes the necessary adjustments:
+
+| Parameter         | New Value | Default |
+|-------------------|-----------|---------|
+| `AHRS_GPS_USE`     | 0.0       | 1.0     |
+| `EK3_GPS_CHECK`    | 0.0       | 31.0    |
+| `EK3_SRC1_POSXY`   | 6.0       | 3.0     |
+| `EK3_SRC1_POSZ`    | 6.0       | 3.0     |
+| `EK3_SRC1_VELXY`   | 6.0       | 3.0     |
+| `EK3_SRC1_VELZ`    | 6.0       | 3.0     |
+| `EK3_SRC1_YAW`     | 6.0       | 1.0     |
+| `GPS_TYPE`         | 0.0       | 14.0    |
+| `VISO_TYPE`        | 1.0       | 0.0     |
+
+These values configure the EKF to use MAVLink VISION_POSITION_ESTIMATE data for state estimation instead of GPS.
 
 ## Setup Instructions
 
-1. Clone this repository and install dependencies:
+1. Clone the repository:
 
+bash
+   git clone https://github.com/ruhtruht/optitrack-arducopter-bridge.git
+   cd optitrack-arducopter-bridge
+
+
+2. Install dependencies:
+
+  bash
    pip install pymavlink numpy
 
-2. Start OptiTrack Motive and ensure NatNet streaming is enabled.
 
-3. Configure your drone to accept external vision position estimates (EKF2/3 settings).
+3. Start Motive and enable NatNet 3D data streaming.
 
-4. Launch the tracking and flight control script:
+4. Ensure your flight controller is configured with the parameters listed above.
 
-   python qmed_follows_agv.py
+5. Run the main script:
+
+ python qmed_follows_agv.py
+
 
 ## Validation and Testing
 
-Due to safety considerations, full autonomous flights in indoor environments were not conducted with the QMED platform. Instead, validation was performed through hover tests, position-only transmissions, and detailed analysis of system log files.
+Due to safety concerns, full indoor flight testing was not performed with the 2-3 kg QMED drone platform. Instead, validation was conducted through simulated position-only transmissions, controlled hover tests, and in-depth analysis of system logs (see `/cache/`).
 
-Example output from system logs demonstrates:
-
-- Successful lock of position estimates
-- Execution of pre-flight safety checks
-- Takeoff command dispatch
-- Real-time position updates with target-relative coordinates
-
-Full logs are available in /Anhang/.
+All functional components—including MAVLink messaging, transformation accuracy, mode switching, and safety logic—were verified in real-time using log-based evaluation and telemetry monitoring.
 
 ## Related Work
 
-- crazyflie_bk: https://github.com/briankim13/crazyflie_bk  
-  An indoor navigation project using OptiTrack and ROS on a Crazyflie Nano drone (9x9 cm, 19 g)
+* [crazyflie\_bk](https://github.com/briankim13/crazyflie_bk):
+  An indoor navigation project using OptiTrack and ROS on a Crazyflie Nano drone (9 × 9 cm, 19 g).
 
-- RaspberryPi4_and_Pixhawk: https://github.com/nickolaus65/RasberryPi4_and_Pixhawk  
-  Demonstrates MAVLink communication via serial interface between a Pixhawk and a Raspberry Pi
+* [RaspberryPi4\_and\_Pixhawk](https://github.com/nickolaus65/RasberryPi4_and_Pixhawk):
+  Demonstrates serial MAVLink communication between a Raspberry Pi and Pixhawk controller.
 
-Both projects utilize lightweight mini quadrotor platforms optimized for indoor use. This stands in contrast to the QMED drone used in the current project, which due to its high thrust requirement and open rotor design is less suited for confined laboratory spaces.
+Both projects use microdrones optimized for indoor testing. In contrast, this project highlights the challenges of performing vision-based indoor flight with larger multirotor platforms (QMED, \~3 kg), emphasizing the need for lighter and safer UAV designs in confined laboratory spaces.
 
 ## Academic Context
 
-This implementation was developed as part of a bachelor's thesis investigating GPS-free drone navigation and the integration of external motion capture systems with ArduPilot flight controllers. The focus was on software modularity, transform accuracy, and reliable MAVLink communication under constrained indoor conditions.
+This implementation was developed as part of a bachelor’s thesis investigating GPS-free drone navigation using motion capture. The focus was on clean modular design, reliable MAVLink transmission, and precise spatial transformations in environments where traditional GNSS positioning is unavailable.
 
 ## License
 
-This repository is released under the MIT License. Usage for academic, research, and prototyping purposes is encouraged.
+MIT License. Open for research, prototyping, and academic teaching.
 
 ## Citation
 
-To cite this project in academic work, please use the following format:
+```
+@misc{optitrack_arducopter_bridge_2025,
+  author = {ruhtruht},
+  title = {MoCapMAV: OptiTrack-Based Indoor Drone Navigation Using MAVLink},
+  year = {2025},
+  howpublished = {\url{https://github.com/ruhtruht/optitrack-arducopter-bridge}},
+  note = {Bachelor’s Thesis Project}
+}
+```
 
-[ruhruht]. (2025). MoCapMAV: OptiTrack-Based Indoor Drone Navigation Using MAVLink [Computer software]. https://github.com/ruhtruht/MoCapMAV
+
