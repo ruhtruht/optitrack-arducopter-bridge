@@ -1,7 +1,13 @@
+Natürlich – hier ist das `README.md` vollständig und **kopierbereit** im Klartext. Du kannst es direkt in deine GitHub-Repo-Datei oder in einen Markdown-Editor einfügen:
 
+---
+
+```markdown
 # optitrack-arducopter-bridge
 
 This repository contains a Python-based system for integrating OptiTrack motion capture data with MAVLink-enabled drones. It enables GPS-independent indoor navigation by converting motion capture position estimates (via the NatNet SDK) into real-time MAVLink messages, which are sent to a Pixhawk-based flight controller running ArduCopter firmware.
+
+The system was developed and tested in the context of a bachelor's thesis on autonomous aerial tracking of ground robots in constrained indoor environments.
 
 ## Overview
 
@@ -15,7 +21,7 @@ The software stack implements a complete pipeline for indoor drone localization 
 
 ## Architecture
 
-
+```
 
 OptiTrack Cameras → Motive → NatNet SDK (UDP) → Python Receiver
 ↓
@@ -25,11 +31,11 @@ MAVLink Command Generation
 ↓
 ArduPilot Flight Controller (Pixhawk)
 
-
+```
 
 ## Repository Structure
 
-
+```
 
 .
 ├── qmed\_follows\_agv.py           # Main system controller
@@ -44,6 +50,7 @@ ArduPilot Flight Controller (Pixhawk)
 ├── sdk/                          # Example scripts from the OptiTrack SDK
 └── README.md
 
+````
 
 ## System Requirements
 
@@ -75,16 +82,16 @@ These values configure the EKF to use MAVLink VISION_POSITION_ESTIMATE data for 
 
 1. Clone the repository:
 
-bash
+   ```bash
    git clone https://github.com/ruhtruht/optitrack-arducopter-bridge.git
    cd optitrack-arducopter-bridge
-
+````
 
 2. Install dependencies:
 
-  bash
+   ```bash
    pip install pymavlink numpy
-
+   ```
 
 3. Start Motive and enable NatNet 3D data streaming.
 
@@ -92,12 +99,13 @@ bash
 
 5. Run the main script:
 
- python qmed_follows_agv.py
-
+   ```bash
+   python qmed_follows_agv.py
+   ```
 
 ## Validation and Testing
 
-Due to safety concerns, full indoor flight testing was not performed with the 2-3 kg QMED drone platform. Instead, validation was conducted through simulated position-only transmissions, controlled hover tests, and in-depth analysis of system logs (see `/cache/`).
+Due to safety concerns, full indoor flight testing was not performed with the 3 kg QMED drone platform. Instead, validation was conducted through simulated position-only transmissions, controlled hover tests, and in-depth analysis of system logs (see `/cache/`).
 
 All functional components—including MAVLink messaging, transformation accuracy, mode switching, and safety logic—were verified in real-time using log-based evaluation and telemetry monitoring.
 
@@ -131,4 +139,7 @@ MIT License. Open for research, prototyping, and academic teaching.
 }
 ```
 
+```
 
+Wenn du willst, kann ich zusätzlich noch ein `.bib`-Eintrag oder ein akademisches Abstract draus machen.
+```
