@@ -1,0 +1,509 @@
+2025-08-14 15:48:34,661 - INFO - Initializing OptiTrack tracker...
+2025-08-14 15:48:34,662 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 15:48:34,662 - INFO - Initializing MAVLink connection...
+2025-08-14 15:48:34,677 - INFO - First position received for rigid body ID 1
+2025-08-14 15:48:34,678 - INFO -   Position: x=2.013, y=0.115, z=0.167
+2025-08-14 15:48:34,781 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 15:48:34,782 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 15:49:18,307 - INFO - Initializing OptiTrack tracker...
+2025-08-14 15:49:18,307 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 15:49:18,307 - INFO - Initializing MAVLink connection...
+2025-08-14 15:49:18,321 - INFO - First position received for rigid body ID 1
+2025-08-14 15:49:18,321 - INFO -   Position: x=2.013, y=0.115, z=0.167
+2025-08-14 15:49:18,681 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 15:49:18,687 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 15:49:52,933 - INFO - Initializing OptiTrack tracker...
+2025-08-14 15:49:52,933 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 15:49:52,934 - INFO - Initializing MAVLink connection...
+2025-08-14 15:49:52,947 - INFO - First position received for rigid body ID 1
+2025-08-14 15:49:52,947 - INFO -   Position: x=2.013, y=0.115, z=0.167
+2025-08-14 15:49:53,674 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 15:49:53,678 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 15:50:26,246 - INFO - Initializing OptiTrack tracker...
+2025-08-14 15:50:26,247 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 15:50:26,247 - INFO - Initializing MAVLink connection...
+2025-08-14 15:50:26,261 - INFO - First position received for rigid body ID 1
+2025-08-14 15:50:26,261 - INFO -   Position: x=2.013, y=0.115, z=0.167
+2025-08-14 15:50:26,677 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 15:50:26,677 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:03:51,514 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:03:51,514 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:03:51,514 - INFO - Initializing MAVLink connection...
+2025-08-14 16:03:51,707 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:03:51,707 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:25:26,665 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:25:26,666 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:25:26,667 - INFO - Initializing MAVLink connection...
+2025-08-14 16:25:27,183 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:25:27,183 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:25:56,796 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:25:56,797 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:25:56,797 - INFO - Initializing MAVLink connection...
+2025-08-14 16:25:57,204 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:25:57,204 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:26:38,777 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:26:38,778 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:26:38,778 - INFO - Initializing MAVLink connection...
+2025-08-14 16:26:39,172 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:26:39,172 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:27:35,504 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:27:35,504 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:27:35,504 - INFO - Initializing MAVLink connection...
+2025-08-14 16:27:36,160 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:27:36,160 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:28:04,074 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:28:04,074 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:28:04,074 - INFO - Initializing MAVLink connection...
+2025-08-14 16:28:04,177 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:28:04,178 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:30:28,767 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:30:28,768 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:30:28,768 - INFO - Initializing MAVLink connection...
+2025-08-14 16:30:28,782 - INFO - First position received for rigid body ID 1
+2025-08-14 16:30:28,782 - INFO -   Position: x=-2.956, y=1.508, z=0.209
+2025-08-14 16:30:28,783 - INFO - First position received for rigid body ID 5
+2025-08-14 16:30:28,783 - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:30:29,228 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:30:29,229 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:44:57,535 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:44:57,535 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:44:57,535 - INFO - Initializing MAVLink connection...
+2025-08-14 16:44:57,551 - INFO - First position received for rigid body ID 1
+2025-08-14 16:44:57,551 - INFO -   Position: x=-2.955, y=1.511, z=0.213
+2025-08-14 16:44:57,551 - INFO - First position received for rigid body ID 5
+2025-08-14 16:44:57,551 - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:44:58,188 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:44:58,188 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:51:12,933 - INFO - Initializing OptiTrack tracker...
+2025-08-14 16:51:12,933 - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:51:12,933 - INFO - Initializing MAVLink connection...
+2025-08-14 16:51:12,945 - INFO - First position received for rigid body ID 1
+2025-08-14 16:51:12,945 - INFO -   Position: x=-2.953, y=1.511, z=0.211
+2025-08-14 16:51:12,945 - INFO - First position received for rigid body ID 5
+2025-08-14 16:51:12,945 - INFO -   Position: x=-1.473, y=-0.293, z=0.258
+2025-08-14 16:51:13,191 - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:51:13,191 - INFO - Waiting for OptiTrack position lock...
+2025-08-14 16:51:13,191 - INFO - Position lock SUCCESS! Received 30 position updates
+2025-08-14 16:51:18,214 - INFO - Position updates sent: 99 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:23,234 - INFO - Position updates sent: 197 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:28,285 - INFO - Position updates sent: 296 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:33,287 - INFO - Position updates sent: 394 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:38,290 - INFO - Position updates sent: 492 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:43,341 - INFO - Position updates sent: 591 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:48,392 - INFO - Position updates sent: 690 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:53,394 - INFO - Position updates sent: 788 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:51:58,395 - INFO - Position updates sent: 886 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:03,446 - INFO - Position updates sent: 985 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:08,493 - INFO - Position updates sent: 1084 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:13,542 - INFO - Position updates sent: 1183 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:18,591 - INFO - Position updates sent: 1282 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:23,641 - INFO - Position updates sent: 1381 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:28,689 - INFO - Position updates sent: 1480 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:33,740 - INFO - Position updates sent: 1579 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:38,790 - INFO - Position updates sent: 1678 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:43,840 - INFO - Position updates sent: 1777 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:48,889 - INFO - Position updates sent: 1876 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:53,938 - INFO - Position updates sent: 1975 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:52:58,988 - INFO - Position updates sent: 2074 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:04,038 - INFO - Position updates sent: 2173 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:09,088 - INFO - Position updates sent: 2272 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:14,134 - INFO - Position updates sent: 2371 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:19,183 - INFO - Position updates sent: 2470 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:24,232 - INFO - Position updates sent: 2569 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:29,282 - INFO - Position updates sent: 2668 | Current NED: -0.29, -1.47, -0.26
+2025-08-14 16:53:34,330 - INFO - Position updates sent: 2767 | Current NED: -0.29, -1.47, -0.26
+2025-08-19 12:18:14,758 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:18:14,758 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.101
+2025-08-19 12:18:14,758 - INFO - Starting NatNet client threads...
+2025-08-19 12:18:14,761 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:18:24,792 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:19:06,763 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:19:08,113 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:19:08,113 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:19:08,113 - INFO - Starting NatNet client threads...
+2025-08-19 12:19:08,114 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:19:18,144 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:19:35,758 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:19:36,509 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:19:36,509 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:19:36,509 - INFO - Starting NatNet client threads...
+2025-08-19 12:19:36,510 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:19:46,539 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:19:48,399 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:21:05,673 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:21:05,673 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:21:05,673 - INFO - Starting NatNet client threads...
+2025-08-19 12:21:05,674 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:21:05,684 - INFO - First position received for rigid body ID 1
+2025-08-19 12:21:05,684 - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:21:05,774 - INFO - Requesting model definitions...
+2025-08-19 12:21:06,776 - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:21:06,776 - INFO - Server: Motive
+2025-08-19 12:21:06,776 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:21:06,776 - INFO - Initializing MAVLink connection...
+2025-08-19 12:21:06,780 - ERROR - Failed to connect to MAVLink: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:21:06,780 - ERROR - Initialization failed: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:21:33,339 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:21:33,340 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:21:33,340 - INFO - Starting NatNet client threads...
+2025-08-19 12:21:33,340 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:21:33,353 - INFO - First position received for rigid body ID 1
+2025-08-19 12:21:33,353 - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:21:33,440 - INFO - Requesting model definitions...
+2025-08-19 12:21:34,442 - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:21:34,442 - INFO - Server: Motive
+2025-08-19 12:21:34,442 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:21:34,442 - INFO - Initializing MAVLink connection...
+2025-08-19 12:21:34,447 - ERROR - Failed to connect to MAVLink: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:21:34,447 - ERROR - Initialization failed: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:23:11,374 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:23:11,374 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:23:11,375 - INFO - Starting NatNet client threads...
+2025-08-19 12:23:11,375 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:23:11,386 - INFO - First position received for rigid body ID 1
+2025-08-19 12:23:11,386 - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:23:11,476 - INFO - Requesting model definitions...
+2025-08-19 12:23:12,477 - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:23:12,477 - INFO - Server: Motive
+2025-08-19 12:23:12,477 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:23:12,477 - INFO - Initializing MAVLink connection...
+2025-08-19 12:23:12,480 - ERROR - Failed to connect to MAVLink: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:23:12,480 - ERROR - Initialization failed: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:23:35,603 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:23:35,603 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:23:35,603 - INFO - Starting NatNet client threads...
+2025-08-19 12:23:35,604 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:23:35,617 - INFO - First position received for rigid body ID 1
+2025-08-19 12:23:35,617 - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:23:35,704 - INFO - Requesting model definitions...
+2025-08-19 12:23:36,705 - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:23:36,705 - INFO - Server: Motive
+2025-08-19 12:23:36,705 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:23:36,705 - INFO - Initializing MAVLink connection...
+2025-08-19 12:23:36,707 - ERROR - Failed to connect to MAVLink: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:23:36,707 - ERROR - Initialization failed: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-19 12:25:16,856 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:25:16,856 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:25:16,856 - INFO - Starting NatNet client threads...
+2025-08-19 12:25:16,857 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:25:16,871 - INFO - First position received for rigid body ID 1
+2025-08-19 12:25:16,871 - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:25:16,957 - INFO - Requesting model definitions...
+2025-08-19 12:25:17,958 - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:25:17,958 - INFO - Server: Motive
+2025-08-19 12:25:17,958 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:25:17,958 - INFO - Initializing MAVLink connection...
+2025-08-19 12:25:18,089 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 12:25:18,089 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 12:27:17,644 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:27:17,644 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:27:17,644 - INFO - Starting NatNet client threads...
+2025-08-19 12:27:17,645 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:27:17,654 - INFO - First position received for rigid body ID 1
+2025-08-19 12:27:17,654 - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:27:17,745 - INFO - Requesting model definitions...
+2025-08-19 12:27:18,746 - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:27:18,746 - INFO - Server: Motive
+2025-08-19 12:27:18,746 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:27:18,746 - INFO - Initializing MAVLink connection...
+2025-08-19 12:27:19,085 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 12:27:19,085 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 12:53:46,773 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:53:46,774 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:53:46,774 - INFO - Starting NatNet client threads...
+2025-08-19 12:53:46,775 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:53:56,808 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:54:16,308 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:55:20,723 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:55:20,723 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:55:20,724 - INFO - Starting NatNet client threads...
+2025-08-19 12:55:20,724 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:55:30,757 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:55:48,878 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 12:59:25,055 - INFO - Initializing OptiTrack tracker...
+2025-08-19 12:59:25,056 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:59:25,056 - INFO - Starting NatNet client threads...
+2025-08-19 12:59:25,056 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:59:35,089 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 13:00:30,071 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 13:03:01,120 - INFO - Initializing OptiTrack tracker...
+2025-08-19 13:03:01,121 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:03:01,121 - INFO - Starting NatNet client threads...
+2025-08-19 13:03:01,121 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:03:11,153 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 13:03:13,913 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 13:04:33,078 - INFO - Initializing OptiTrack tracker...
+2025-08-19 13:04:33,078 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:04:33,078 - INFO - Starting NatNet client threads...
+2025-08-19 13:04:33,079 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:04:33,097 - INFO - First position received for rigid body ID 1
+2025-08-19 13:04:33,097 - INFO -   Position: x=-2.967, y=1.498, z=0.206
+2025-08-19 13:04:33,097 - INFO - First position received for rigid body ID 5
+2025-08-19 13:04:33,097 - INFO -   Position: x=-1.288, y=-0.244, z=0.256
+2025-08-19 13:04:33,181 - INFO - Requesting model definitions...
+2025-08-19 13:04:34,183 - INFO - NatNet client successfully connected and streaming
+2025-08-19 13:04:34,183 - INFO - Server: Motive
+2025-08-19 13:04:34,184 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 13:04:34,184 - INFO - Initializing MAVLink connection...
+2025-08-19 13:04:34,663 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 13:04:34,663 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 13:04:34,663 - INFO - Position lock SUCCESS! Received 188 position updates
+2025-08-19 13:04:34,664 - INFO - Position feeding loop started at 20Hz
+2025-08-19 13:04:44,683 - INFO - Position updates sent: 197 | Current NED: -0.24, -1.29, -0.26
+2025-08-19 13:04:54,705 - INFO - Position updates sent: 393 | Current NED: -0.01, -1.37, -1.44
+2025-08-19 13:05:04,726 - INFO - Position updates sent: 589 | Current NED: -1.50, -1.61, -1.55
+2025-08-19 13:05:14,761 - INFO - Position updates sent: 785 | Current NED: 0.20, -1.72, -0.74
+2025-08-19 13:05:24,794 - INFO - Position updates sent: 981 | Current NED: 0.17, -1.84, -0.26
+2025-08-19 13:07:29,613 - INFO - Initializing OptiTrack tracker...
+2025-08-19 13:07:29,613 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:07:29,613 - INFO - Starting NatNet client threads...
+2025-08-19 13:07:29,614 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:07:29,625 - INFO - First position received for rigid body ID 1
+2025-08-19 13:07:29,625 - INFO -   Position: x=-2.965, y=1.497, z=0.209
+2025-08-19 13:07:29,625 - INFO - First position received for rigid body ID 5
+2025-08-19 13:07:29,625 - INFO -   Position: x=-1.844, y=0.167, z=0.264
+2025-08-19 13:07:29,714 - INFO - Requesting model definitions...
+2025-08-19 13:07:30,718 - INFO - NatNet client successfully connected and streaming
+2025-08-19 13:07:30,718 - INFO - Server: Motive
+2025-08-19 13:07:30,718 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 13:07:30,719 - INFO - Initializing MAVLink connection...
+2025-08-19 13:07:31,659 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 13:07:31,659 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 13:07:31,660 - INFO - Position lock SUCCESS! Received 245 position updates
+2025-08-19 13:07:31,661 - INFO - Position feeding loop started at 20Hz
+2025-08-19 13:07:41,694 - INFO - Position updates sent: 197 | Current NED: 0.17, -1.84, -0.26
+2025-08-19 13:07:51,737 - INFO - Position updates sent: 393 | Current NED: 0.17, -1.74, -1.88
+2025-08-19 13:08:01,774 - INFO - Position updates sent: 589 | Current NED: -0.06, 0.96, -1.82
+2025-08-19 13:08:11,812 - INFO - Position updates sent: 785 | Current NED: -0.17, 2.62, -1.76
+2025-08-19 13:08:21,838 - INFO - Position updates sent: 981 | Current NED: 0.32, -3.02, -1.78
+2025-08-19 13:08:31,865 - INFO - Position updates sent: 1177 | Current NED: -0.20, 2.00, -1.69
+2025-08-19 13:08:41,887 - INFO - Position updates sent: 1373 | Current NED: -0.25, 2.47, -1.51
+2025-08-19 13:08:51,905 - INFO - Position updates sent: 1569 | Current NED: -1.09, -0.87, -1.52
+2025-08-19 13:09:01,930 - INFO - Position updates sent: 1765 | Current NED: 0.29, -3.22, -1.70
+2025-08-19 13:09:11,965 - INFO - Position updates sent: 1961 | Current NED: -0.08, 2.49, -1.68
+2025-08-19 13:09:22,006 - INFO - Position updates sent: 2157 | Current NED: 0.29, -2.68, -1.34
+2025-08-19 13:09:32,034 - INFO - Position updates sent: 2353 | Current NED: 0.26, -2.87, -0.27
+2025-08-19 13:52:01,146 - INFO - Initializing OptiTrack tracker...
+2025-08-19 13:52:01,146 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:52:01,146 - INFO - Starting NatNet client threads...
+2025-08-19 13:52:01,147 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:52:11,167 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 13:52:11,317 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:27:50,099 - INFO - Initializing OptiTrack tracker...
+2025-08-19 14:27:50,100 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 14:27:50,100 - INFO - Starting NatNet client threads...
+2025-08-19 14:27:50,103 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 14:28:00,136 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:28:02,347 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:28:04,176 - INFO - Initializing OptiTrack tracker...
+2025-08-19 14:28:04,176 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 14:28:04,176 - INFO - Starting NatNet client threads...
+2025-08-19 14:28:04,177 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 14:28:14,210 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:28:21,474 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:28:24,043 - INFO - Initializing OptiTrack tracker...
+2025-08-19 14:28:24,043 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 14:28:24,043 - INFO - Starting NatNet client threads...
+2025-08-19 14:28:24,044 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 14:28:34,077 - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:28:37,244 - ERROR - Initialization failed: Failed to establish NatNet connection within 10.0s
+2025-08-19 14:28:40,426 - INFO - Initializing OptiTrack tracker...
+2025-08-19 14:28:40,426 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 14:28:40,426 - INFO - Starting NatNet client threads...
+2025-08-19 14:28:40,427 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 14:29:07,051 - INFO - Initializing OptiTrack tracker...
+2025-08-19 14:29:07,051 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 14:29:07,051 - INFO - Starting NatNet client threads...
+2025-08-19 14:29:07,052 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 14:29:07,069 - INFO - First position received for rigid body ID 1
+2025-08-19 14:29:07,069 - INFO -   Position: x=-3.005, y=1.451, z=0.209
+2025-08-19 14:29:07,069 - INFO - First position received for rigid body ID 5
+2025-08-19 14:29:07,069 - INFO -   Position: x=0.154, y=0.085, z=0.244
+2025-08-19 14:29:07,152 - INFO - Requesting model definitions...
+2025-08-19 14:29:08,157 - INFO - NatNet client successfully connected and streaming
+2025-08-19 14:29:08,157 - INFO - Server: Motive
+2025-08-19 14:29:08,157 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 14:29:08,157 - INFO - Initializing MAVLink connection...
+2025-08-19 14:29:08,897 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 14:29:08,898 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 14:29:08,898 - INFO - Position lock SUCCESS! Received 218 position updates
+2025-08-19 14:29:08,900 - INFO - Position feeding loop started at 20Hz
+2025-08-19 14:29:18,942 - INFO - Position updates sent: 197 | Current NED: 0.09, 0.15, -0.24
+2025-08-19 14:29:28,982 - INFO - Position updates sent: 393 | Current NED: 0.08, 0.16, -0.25
+2025-08-19 14:29:39,022 - INFO - Position updates sent: 589 | Current NED: -1.64, -0.49, -0.92
+2025-08-19 14:29:49,059 - INFO - Position updates sent: 785 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:29:59,084 - INFO - Position updates sent: 981 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:30:09,099 - INFO - Position updates sent: 1177 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:30:19,125 - INFO - Position updates sent: 1373 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:30:29,149 - INFO - Position updates sent: 1569 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:30:39,167 - INFO - Position updates sent: 1765 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:30:49,197 - INFO - Position updates sent: 1961 | Current NED: -0.36, 0.11, -0.25
+2025-08-19 14:30:59,233 - INFO - Position updates sent: 2157 | Current NED: -0.36, 0.11, -0.25
+2025-08-19 14:31:09,258 - INFO - Position updates sent: 2353 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:31:19,291 - INFO - Position updates sent: 2549 | Current NED: -0.36, 0.11, -0.25
+2025-08-19 14:31:29,318 - INFO - Position updates sent: 2745 | Current NED: -0.36, 0.11, -0.25
+2025-08-19 14:31:39,353 - INFO - Position updates sent: 2941 | Current NED: -0.36, 0.11, -0.25
+2025-08-19 14:31:49,376 - INFO - Position updates sent: 3137 | Current NED: -0.35, 0.11, -0.25
+2025-08-19 14:31:59,423 - INFO - Position updates sent: 3333 | Current NED: 2.13, -0.91, -0.35
+2025-08-19 14:32:09,439 - INFO - Position updates sent: 3529 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:32:19,461 - INFO - Position updates sent: 3725 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:32:29,478 - INFO - Position updates sent: 3921 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:32:39,490 - INFO - Position updates sent: 4117 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:32:49,514 - INFO - Position updates sent: 4313 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:32:59,539 - INFO - Position updates sent: 4509 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:33:09,550 - INFO - Position updates sent: 4705 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:33:19,581 - INFO - Position updates sent: 4901 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:33:29,610 - INFO - Position updates sent: 5097 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:33:39,628 - INFO - Position updates sent: 5293 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:33:49,651 - INFO - Position updates sent: 5489 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:33:59,667 - INFO - Position updates sent: 5685 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:34:09,694 - INFO - Position updates sent: 5881 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:34:19,696 - INFO - Position updates sent: 6077 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:34:29,715 - INFO - Position updates sent: 6273 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:34:39,741 - INFO - Position updates sent: 6469 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:34:49,779 - INFO - Position updates sent: 6665 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:34:59,821 - INFO - Position updates sent: 6861 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:35:09,855 - INFO - Position updates sent: 7057 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:35:19,866 - INFO - Position updates sent: 7253 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:35:29,871 - INFO - Position updates sent: 7449 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:35:39,885 - INFO - Position updates sent: 7645 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:35:49,887 - INFO - Position updates sent: 7841 | Current NED: 2.17, -0.92, -0.30
+2025-08-19 14:35:59,936 - INFO - Position updates sent: 8038 | Current NED: 0.52, -1.39, -0.80
+2025-08-19 14:36:09,946 - INFO - Position updates sent: 8234 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:36:19,995 - INFO - Position updates sent: 8431 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:36:30,004 - INFO - Position updates sent: 8627 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:36:40,017 - INFO - Position updates sent: 8823 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:36:50,030 - INFO - Position updates sent: 9019 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:37:00,046 - INFO - Position updates sent: 9215 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:37:10,048 - INFO - Position updates sent: 9411 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:37:20,054 - INFO - Position updates sent: 9607 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:37:30,059 - INFO - Position updates sent: 9803 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:37:40,077 - INFO - Position updates sent: 9999 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:37:50,082 - INFO - Position updates sent: 10195 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:38:00,131 - INFO - Position updates sent: 10392 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:38:10,138 - INFO - Position updates sent: 10588 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:38:20,153 - INFO - Position updates sent: 10784 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:38:30,171 - INFO - Position updates sent: 10980 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:38:40,181 - INFO - Position updates sent: 11176 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:38:50,207 - INFO - Position updates sent: 11372 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:39:00,239 - INFO - Position updates sent: 11568 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:39:10,281 - INFO - Position updates sent: 11764 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:39:20,301 - INFO - Position updates sent: 11960 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:39:30,318 - INFO - Position updates sent: 12156 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:39:40,341 - INFO - Position updates sent: 12352 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:39:50,354 - INFO - Position updates sent: 12548 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:40:00,405 - INFO - Position updates sent: 12745 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:40:10,456 - INFO - Position updates sent: 12942 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:40:20,503 - INFO - Position updates sent: 13139 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:40:30,507 - INFO - Position updates sent: 13335 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:40:40,514 - INFO - Position updates sent: 13531 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:40:50,564 - INFO - Position updates sent: 13728 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:41:00,565 - INFO - Position updates sent: 13924 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:41:10,568 - INFO - Position updates sent: 14120 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:41:20,572 - INFO - Position updates sent: 14316 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:41:30,621 - INFO - Position updates sent: 14513 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:41:40,622 - INFO - Position updates sent: 14709 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:41:50,622 - INFO - Position updates sent: 14905 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:42:00,626 - INFO - Position updates sent: 15101 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:42:10,675 - INFO - Position updates sent: 15298 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:42:20,729 - INFO - Position updates sent: 15495 | Current NED: -1.75, -1.81, -0.61
+2025-08-19 14:42:30,740 - INFO - Position updates sent: 15691 | Current NED: -0.13, 0.14, -0.56
+2025-08-19 14:42:40,747 - INFO - Position updates sent: 15887 | Current NED: -0.10, 0.17, -0.50
+2025-08-19 14:42:50,756 - INFO - Position updates sent: 16083 | Current NED: -0.04, 0.19, -0.49
+2025-08-19 14:43:00,771 - INFO - Position updates sent: 16279 | Current NED: -0.04, 0.19, -0.49
+2025-08-19 14:43:10,777 - INFO - Position updates sent: 16475 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:43:20,790 - INFO - Position updates sent: 16671 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:43:30,794 - INFO - Position updates sent: 16867 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:43:40,810 - INFO - Position updates sent: 17063 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:43:50,815 - INFO - Position updates sent: 17259 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:44:00,832 - INFO - Position updates sent: 17455 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:44:10,844 - INFO - Position updates sent: 17651 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:44:20,857 - INFO - Position updates sent: 17847 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:44:30,861 - INFO - Position updates sent: 18043 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:44:40,870 - INFO - Position updates sent: 18239 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:44:50,899 - INFO - Position updates sent: 18435 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:45:00,908 - INFO - Position updates sent: 18631 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:45:10,920 - INFO - Position updates sent: 18827 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:45:20,940 - INFO - Position updates sent: 19023 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:45:30,957 - INFO - Position updates sent: 19219 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:45:40,975 - INFO - Position updates sent: 19415 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:45:50,993 - INFO - Position updates sent: 19611 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:46:01,017 - INFO - Position updates sent: 19807 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:46:11,032 - INFO - Position updates sent: 20003 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:46:21,053 - INFO - Position updates sent: 20199 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:46:31,077 - INFO - Position updates sent: 20395 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:46:41,094 - INFO - Position updates sent: 20591 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:46:51,109 - INFO - Position updates sent: 20787 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:47:01,129 - INFO - Position updates sent: 20983 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:47:11,158 - INFO - Position updates sent: 21179 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:47:21,176 - INFO - Position updates sent: 21375 | Current NED: -0.04, 0.19, -0.50
+2025-08-19 14:47:31,194 - INFO - Position updates sent: 21571 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:47:41,220 - INFO - Position updates sent: 21767 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:47:51,243 - INFO - Position updates sent: 21963 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:48:01,264 - INFO - Position updates sent: 22159 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:48:11,280 - INFO - Position updates sent: 22355 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:48:21,288 - INFO - Position updates sent: 22551 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:48:31,304 - INFO - Position updates sent: 22747 | Current NED: 0.01, 0.23, -0.50
+2025-08-19 14:48:41,318 - INFO - Position updates sent: 22943 | Current NED: 0.04, 0.23, -0.50
+2025-08-19 14:48:51,336 - INFO - Position updates sent: 23139 | Current NED: 0.03, 0.23, -0.50
+2025-08-19 14:49:01,345 - INFO - Position updates sent: 23335 | Current NED: 0.04, 0.23, -0.50
+2025-08-19 14:49:11,361 - INFO - Position updates sent: 23531 | Current NED: 0.04, 0.23, -0.50
+2025-08-19 14:49:21,378 - INFO - Position updates sent: 23727 | Current NED: 0.03, 0.23, -0.50
+2025-08-19 14:49:31,390 - INFO - Position updates sent: 23923 | Current NED: 0.04, 0.23, -0.49
+2025-08-19 14:49:41,397 - INFO - Position updates sent: 24119 | Current NED: 0.03, 0.23, -0.49
+2025-08-19 14:49:51,411 - INFO - Position updates sent: 24315 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:50:01,435 - INFO - Position updates sent: 24511 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:50:11,447 - INFO - Position updates sent: 24707 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:50:21,464 - INFO - Position updates sent: 24903 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:50:31,497 - INFO - Position updates sent: 25098 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:50:41,503 - INFO - Position updates sent: 25294 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:50:51,519 - INFO - Position updates sent: 25490 | Current NED: -0.04, 0.22, -0.50
+2025-08-19 14:58:05,936 - INFO - Initializing OptiTrack tracker...
+2025-08-19 14:58:05,936 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 14:58:05,936 - INFO - Starting NatNet client threads...
+2025-08-19 14:58:05,937 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 14:58:06,139 - INFO - First position received for rigid body ID 1
+2025-08-19 14:58:06,140 - INFO -   Position: x=-2.997, y=1.454, z=0.211
+2025-08-19 14:58:06,140 - INFO - Requesting model definitions...
+2025-08-19 14:58:06,141 - INFO - First position received for rigid body ID 5
+2025-08-19 14:58:06,141 - INFO -   Position: x=-0.599, y=0.148, z=0.253
+2025-08-19 14:58:07,144 - INFO - NatNet client successfully connected and streaming
+2025-08-19 14:58:07,145 - INFO - Server: Motive
+2025-08-19 14:58:07,145 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 14:58:07,145 - INFO - Initializing MAVLink connection...
+2025-08-19 14:58:07,810 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 14:58:07,810 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 14:58:07,811 - INFO - Position lock SUCCESS! Received 202 position updates
+2025-08-19 14:58:07,811 - INFO - Position feeding loop started at 20Hz
+2025-08-19 14:58:17,841 - INFO - Position updates sent: 197 | Current NED: 0.15, -0.60, -0.25
+2025-08-19 14:58:27,876 - INFO - Position updates sent: 394 | Current NED: 0.15, -0.60, -0.25
+2025-08-19 14:58:37,903 - INFO - Position updates sent: 590 | Current NED: 0.15, -0.60, -0.25
+2025-08-19 14:58:47,949 - INFO - Position updates sent: 786 | Current NED: 0.15, -0.60, -0.25
+2025-08-19 14:58:57,987 - INFO - Position updates sent: 982 | Current NED: -1.55, -0.65, -2.00
+2025-08-19 14:59:08,014 - INFO - Position updates sent: 1178 | Current NED: 0.15, -0.52, -0.66
+2025-08-19 14:59:18,039 - INFO - Position updates sent: 1374 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 14:59:28,058 - INFO - Position updates sent: 1570 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 14:59:38,089 - INFO - Position updates sent: 1766 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 14:59:48,116 - INFO - Position updates sent: 1962 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 14:59:58,153 - INFO - Position updates sent: 2158 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 15:00:08,187 - INFO - Position updates sent: 2354 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 15:00:18,210 - INFO - Position updates sent: 2550 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 15:00:28,242 - INFO - Position updates sent: 2746 | Current NED: 0.19, -0.49, -0.25
+2025-08-19 15:47:31,540 - INFO - Initializing OptiTrack tracker...
+2025-08-19 15:47:31,541 - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 15:47:31,541 - INFO - Starting NatNet client threads...
+2025-08-19 15:47:31,542 - INFO - Waiting for NatNet connection establishment...
+2025-08-19 15:47:31,559 - INFO - First position received for rigid body ID 1
+2025-08-19 15:47:31,559 - INFO -   Position: x=-0.987, y=-0.040, z=0.185
+2025-08-19 15:47:31,559 - INFO - First position received for rigid body ID 5
+2025-08-19 15:47:31,560 - INFO -   Position: x=-0.933, y=-0.970, z=0.255
+2025-08-19 15:47:31,642 - INFO - Requesting model definitions...
+2025-08-19 15:47:32,647 - INFO - NatNet client successfully connected and streaming
+2025-08-19 15:47:32,647 - INFO - Server: Motive
+2025-08-19 15:47:32,647 - INFO - NatNet Version: 4.1.0.0
+2025-08-19 15:47:32,648 - INFO - Initializing MAVLink connection...
+2025-08-19 15:47:33,156 - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 15:47:33,156 - INFO - Waiting for OptiTrack position lock...
+2025-08-19 15:47:33,157 - INFO - Position lock SUCCESS! Received 192 position updates
+2025-08-19 15:47:33,158 - INFO - Position feeding loop started at 20Hz
+2025-08-19 15:47:43,180 - INFO - Position updates sent: 197 | Current NED: -0.97, -0.93, -0.26

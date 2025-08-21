@@ -1,0 +1,497 @@
+2025-08-14 16:33:04,418 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:33:04,438 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:33:04,439 - natnet_tracker - INFO -   Position: x=-2.956, y=1.508, z=0.209
+2025-08-14 16:33:04,439 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:33:04,439 - natnet_tracker - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:33:05,186 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:33:05,186 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:33:35,224 - __main__ - WARNING - No OptiTrack position detected - falling back to dummy data
+2025-08-14 16:34:19,990 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:34:20,003 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:34:20,003 - natnet_tracker - INFO -   Position: x=-2.956, y=1.508, z=0.209
+2025-08-14 16:34:20,003 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:34:20,003 - natnet_tracker - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:34:20,225 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:34:20,225 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:34:50,265 - __main__ - WARNING - No OptiTrack position detected - falling back to dummy data
+2025-08-14 16:35:30,238 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:35:30,253 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:35:30,253 - natnet_tracker - INFO -   Position: x=-2.956, y=1.508, z=0.209
+2025-08-14 16:35:30,253 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:35:30,253 - natnet_tracker - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:35:30,255 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:35:30,255 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:36:48,475 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:36:48,498 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:36:48,498 - natnet_tracker - INFO -   Position: x=-2.955, y=1.511, z=0.213
+2025-08-14 16:36:48,498 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:36:48,498 - natnet_tracker - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:36:49,184 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:36:49,185 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:37:19,225 - __main__ - WARNING - No OptiTrack position detected - falling back to dummy data
+2025-08-14 16:43:52,208 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:43:52,226 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:43:52,227 - natnet_tracker - INFO -   Position: x=-2.955, y=1.511, z=0.212
+2025-08-14 16:43:52,227 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:43:52,227 - natnet_tracker - INFO -   Position: x=-0.051, y=-0.297, z=0.249
+2025-08-14 16:43:52,263 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:43:52,263 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:44:22,302 - __main__ - WARNING - No OptiTrack position detected - falling back to dummy data
+2025-08-14 16:54:32,622 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:54:32,638 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:54:32,638 - natnet_tracker - INFO -   Position: x=-2.080, y=1.212, z=0.207
+2025-08-14 16:54:32,638 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:54:32,638 - natnet_tracker - INFO -   Position: x=-1.667, y=0.010, z=0.262
+2025-08-14 16:54:33,192 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:54:33,192 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:54:33,192 - __main__ - INFO - Position lock SUCCESS! Received 67 position updates
+2025-08-14 16:54:33,192 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-14 16:54:33,192 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-14 16:54:33,192 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-14 16:54:38,219 - safety_checks - INFO - Checking battery...
+2025-08-14 16:54:38,226 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-14 16:55:08,049 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:55:08,064 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:55:08,064 - natnet_tracker - INFO -   Position: x=-2.080, y=1.212, z=0.207
+2025-08-14 16:55:08,064 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:55:08,064 - natnet_tracker - INFO -   Position: x=-1.667, y=0.011, z=0.262
+2025-08-14 16:55:08,233 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:55:08,236 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:55:08,236 - __main__ - INFO - Position lock SUCCESS! Received 20 position updates
+2025-08-14 16:55:08,237 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-14 16:55:08,237 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-14 16:55:08,237 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-14 16:55:13,262 - safety_checks - INFO - Checking battery...
+2025-08-14 16:55:13,270 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-14 16:55:42,867 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:55:42,882 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:55:42,882 - natnet_tracker - INFO -   Position: x=-2.080, y=1.212, z=0.207
+2025-08-14 16:55:42,882 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:55:42,883 - natnet_tracker - INFO -   Position: x=-1.667, y=0.010, z=0.262
+2025-08-14 16:55:43,239 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:55:43,239 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:55:43,240 - __main__ - INFO - Position lock SUCCESS! Received 43 position updates
+2025-08-14 16:55:43,240 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-14 16:55:43,241 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-14 16:55:43,241 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-14 16:55:48,270 - safety_checks - INFO - Checking battery...
+2025-08-14 16:55:48,278 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-14 16:57:54,348 - natnet_tracker - INFO - NatNet client started: 192.168.41.124 -> 192.168.41.101
+2025-08-14 16:57:54,359 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-14 16:57:54,359 - natnet_tracker - INFO -   Position: x=-2.080, y=1.212, z=0.207
+2025-08-14 16:57:54,359 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-14 16:57:54,360 - natnet_tracker - INFO -   Position: x=-1.611, y=-0.017, z=0.262
+2025-08-14 16:57:55,194 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB1 @ 921600
+2025-08-14 16:57:55,194 - __main__ - INFO - Starting position detection phase
+2025-08-14 16:57:55,194 - __main__ - INFO - Position lock SUCCESS! Received 100 position updates
+2025-08-14 16:57:55,194 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-14 16:57:55,195 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-14 16:57:55,195 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-14 16:58:00,219 - safety_checks - INFO - Checking battery...
+2025-08-14 16:58:00,223 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-19 12:30:05,764 - natnet_tracker - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:30:05,764 - natnet_tracker - INFO - Starting NatNet client threads...
+2025-08-19 12:30:05,765 - natnet_tracker - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:30:05,782 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-19 12:30:05,782 - natnet_tracker - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:30:05,865 - natnet_tracker - INFO - Requesting model definitions...
+2025-08-19 12:30:06,866 - natnet_tracker - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:30:06,866 - natnet_tracker - INFO - Server: Motive
+2025-08-19 12:30:06,867 - natnet_tracker - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:30:07,090 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 12:30:07,091 - __main__ - INFO - Starting position detection phase
+2025-08-19 12:30:37,125 - __main__ - WARNING - No OptiTrack position detected - falling back to dummy data
+2025-08-19 12:30:45,135 - __main__ - INFO - Arm command sent, proceeding to take‑off
+2025-08-19 12:30:45,135 - __main__ - INFO - Taking off to safe altitude: 1.0m
+2025-08-19 12:30:45,135 - mavlink_controller - INFO - Takeoff command: 1.0m altitude
+2025-08-19 12:30:45,135 - __main__ - INFO - Safety: Max altitude=1.0m, AGV timeout=10.0s, Battery threshold=15%
+2025-08-19 12:30:45,136 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:46,137 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:47,140 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:48,141 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:49,142 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:50,143 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:51,144 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:52,145 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:53,146 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:54,149 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:55,150 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:56,151 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:57,154 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:58,158 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:30:58,796 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-19 12:30:58,797 - natnet_tracker - INFO -   Position: x=0.000, y=-0.000, z=0.000
+2025-08-19 12:30:59,159 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:00,161 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:01,165 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:02,166 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:03,168 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:04,169 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:05,172 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:06,173 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:07,175 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:08,177 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:09,179 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:10,184 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:11,187 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:12,188 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:12,420 - __main__ - INFO - Manual shutdown requested
+2025-08-19 12:31:12,422 - natnet_tracker - INFO - Stopping NatNet client...
+2025-08-19 12:31:20,095 - natnet_tracker - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:31:20,095 - natnet_tracker - INFO - Starting NatNet client threads...
+2025-08-19 12:31:20,096 - natnet_tracker - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:31:20,106 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-19 12:31:20,106 - natnet_tracker - INFO -   Position: x=0.441, y=1.340, z=0.182
+2025-08-19 12:31:20,106 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-19 12:31:20,107 - natnet_tracker - INFO -   Position: x=0.000, y=-0.000, z=0.000
+2025-08-19 12:31:20,196 - natnet_tracker - INFO - Requesting model definitions...
+2025-08-19 12:31:21,197 - natnet_tracker - INFO - NatNet client successfully connected and streaming
+2025-08-19 12:31:21,197 - natnet_tracker - INFO - Server: Motive
+2025-08-19 12:31:21,197 - natnet_tracker - INFO - NatNet Version: 4.1.0.0
+2025-08-19 12:31:22,117 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 12:31:22,119 - __main__ - INFO - Starting position detection phase
+2025-08-19 12:31:22,119 - __main__ - INFO - Position lock SUCCESS! Received 242 position updates
+2025-08-19 12:31:22,119 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-19 12:31:22,119 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-19 12:31:22,120 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-19 12:31:27,137 - safety_checks - INFO - Checking battery...
+2025-08-19 12:31:27,145 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-19 12:31:35,153 - __main__ - INFO - Arm command sent, proceeding to take‑off
+2025-08-19 12:31:35,153 - __main__ - INFO - Taking off to safe altitude: 1.0m
+2025-08-19 12:31:35,153 - mavlink_controller - INFO - Takeoff command: 1.0m altitude
+2025-08-19 12:31:35,154 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:35,154 - __main__ - INFO - Safety: Max altitude=1.0m, AGV timeout=10.0s, Battery threshold=15%
+2025-08-19 12:31:36,155 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:37,157 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:38,159 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:39,160 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:40,161 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:41,163 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:42,165 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:43,167 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:44,169 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:45,178 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:46,183 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.48130984461879145, -0.07163346379813523, -1.1819865107536316)
+2025-08-19 12:31:46,867 - __main__ - INFO - Manual shutdown requested
+2025-08-19 12:31:46,867 - natnet_tracker - INFO - Stopping NatNet client...
+2025-08-19 12:56:14,999 - natnet_tracker - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 12:56:15,000 - natnet_tracker - INFO - Starting NatNet client threads...
+2025-08-19 12:56:15,000 - natnet_tracker - INFO - Waiting for NatNet connection establishment...
+2025-08-19 12:56:25,032 - natnet_tracker - ERROR - Failed to start NatNet client: Failed to establish NatNet connection within 10.0s
+2025-08-19 13:10:53,600 - natnet_tracker - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:10:53,600 - natnet_tracker - INFO - Starting NatNet client threads...
+2025-08-19 13:10:53,601 - natnet_tracker - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:10:53,619 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-19 13:10:53,619 - natnet_tracker - INFO -   Position: x=-2.965, y=1.498, z=0.209
+2025-08-19 13:10:53,619 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-19 13:10:53,619 - natnet_tracker - INFO -   Position: x=-2.871, y=0.260, z=0.275
+2025-08-19 13:10:53,704 - natnet_tracker - INFO - Requesting model definitions...
+2025-08-19 13:10:54,705 - natnet_tracker - INFO - NatNet client successfully connected and streaming
+2025-08-19 13:10:54,706 - natnet_tracker - INFO - Server: Motive
+2025-08-19 13:10:54,707 - natnet_tracker - INFO - NatNet Version: 4.1.0.0
+2025-08-19 13:10:55,662 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 13:10:55,663 - __main__ - INFO - Starting position detection phase
+2025-08-19 13:10:55,663 - __main__ - INFO - Position lock SUCCESS! Received 246 position updates
+2025-08-19 13:10:55,663 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-19 13:10:55,663 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-19 13:10:55,663 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-19 13:11:00,679 - safety_checks - INFO - Checking battery...
+2025-08-19 13:11:00,683 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-19 13:11:08,695 - __main__ - INFO - Arm command sent, proceeding to take‑off
+2025-08-19 13:11:08,696 - __main__ - INFO - Taking off to safe altitude: 1.0m
+2025-08-19 13:11:08,696 - mavlink_controller - INFO - Takeoff command: 1.0m altitude
+2025-08-19 13:11:08,698 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977152814311323, -2.945283912498081, -1.2085975855588913)
+2025-08-19 13:11:08,698 - __main__ - INFO - Safety: Max altitude=1.0m, AGV timeout=10.0s, Battery threshold=15%
+2025-08-19 13:11:09,700 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4971657226880766, -2.945468316772329, -1.2082296907901764)
+2025-08-19 13:11:10,703 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771848134415275, -2.9452563300404777, -1.208577424287796)
+2025-08-19 13:11:11,706 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771980468440535, -2.9452968286572467, -1.208593025803566)
+2025-08-19 13:11:12,708 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771639062375284, -2.9452211009757954, -1.2086322009563446)
+2025-08-19 13:11:13,712 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977226474886438, -2.9452303954531787, -1.2086256444454193)
+2025-08-19 13:11:14,714 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49770862451377884, -2.9452743968344675, -1.208605870604515)
+2025-08-19 13:11:15,716 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977283476052644, -2.9452877309486287, -1.208601325750351)
+2025-08-19 13:11:16,721 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771805547749615, -2.9452373345971927, -1.208608716726303)
+2025-08-19 13:11:17,370 - __main__ - INFO - Manual shutdown requested
+2025-08-19 13:11:17,371 - natnet_tracker - INFO - Stopping NatNet client...
+2025-08-19 13:11:28,823 - natnet_tracker - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:11:28,823 - natnet_tracker - INFO - Starting NatNet client threads...
+2025-08-19 13:11:28,824 - natnet_tracker - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:11:28,834 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-19 13:11:28,834 - natnet_tracker - INFO -   Position: x=-2.965, y=1.498, z=0.209
+2025-08-19 13:11:28,834 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-19 13:11:28,834 - natnet_tracker - INFO -   Position: x=-2.871, y=0.260, z=0.275
+2025-08-19 13:11:28,924 - natnet_tracker - INFO - Requesting model definitions...
+2025-08-19 13:11:29,929 - natnet_tracker - INFO - NatNet client successfully connected and streaming
+2025-08-19 13:11:29,929 - natnet_tracker - INFO - Server: Motive
+2025-08-19 13:11:29,930 - natnet_tracker - INFO - NatNet Version: 4.1.0.0
+2025-08-19 13:11:30,645 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 13:11:30,645 - __main__ - INFO - Starting position detection phase
+2025-08-19 13:11:30,646 - __main__ - INFO - Position lock SUCCESS! Received 218 position updates
+2025-08-19 13:11:30,646 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-19 13:11:30,646 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-19 13:11:30,646 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-19 13:11:35,670 - safety_checks - INFO - Checking battery...
+2025-08-19 13:11:35,674 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-19 13:11:43,686 - __main__ - INFO - Arm command sent, proceeding to take‑off
+2025-08-19 13:11:43,687 - __main__ - INFO - Taking off to safe altitude: 1.0m
+2025-08-19 13:11:43,687 - mavlink_controller - INFO - Takeoff command: 1.0m altitude
+2025-08-19 13:11:43,689 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977218278585098, -2.945308917771878, -1.2086360901594162)
+2025-08-19 13:11:43,689 - __main__ - INFO - Safety: Max altitude=1.0m, AGV timeout=10.0s, Battery threshold=15%
+2025-08-19 13:11:44,691 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977072126566694, -2.9452696095536672, -1.2085904479026794)
+2025-08-19 13:11:45,693 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.497911961845236, -2.9466364912217036, -1.2081116139888763)
+2025-08-19 13:11:46,696 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977168039062648, -2.9453400852897746, -1.2086126059293747)
+2025-08-19 13:11:47,698 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49753206200403166, -2.94971657223967, -1.2060739248991013)
+2025-08-19 13:11:48,700 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977120084566312, -2.94530475243555, -1.2085983753204346)
+2025-08-19 13:11:49,702 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771185904011206, -2.9452266653568255, -1.2085934579372406)
+2025-08-19 13:11:50,704 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977077723805957, -2.945298279005553, -1.2085989117622375)
+2025-08-19 13:11:51,706 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977121577065885, -2.9452894713546236, -1.2085803896188736)
+2025-08-19 13:11:52,708 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977300504650245, -2.9453002371667294, -1.2085705399513245)
+2025-08-19 13:11:53,712 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49770843853536184, -2.9452750860779116, -1.2085826992988586)
+2025-08-19 13:11:54,714 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977112768643358, -2.9452855368800903, -1.208598643541336)
+2025-08-19 13:11:55,716 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977120351963493, -2.9453396490532415, -1.2086074352264404)
+2025-08-19 13:11:56,718 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771430927072113, -2.9452990834103034, -1.208573043346405)
+2025-08-19 13:11:57,722 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49772112398557433, -2.9452832358192076, -1.2085747867822647)
+2025-08-19 13:11:58,723 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977267230891317, -2.945281410609709, -1.2085643112659454)
+2025-08-19 13:11:59,725 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771676697235356, -2.945236682814217, -1.2085766345262527)
+2025-08-19 13:12:00,727 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4976140400456923, -2.942805419458323, -1.2069559544324875)
+2025-08-19 13:12:01,732 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49729151284805395, -2.9421536831741752, -1.2036259770393372)
+2025-08-19 13:12:02,737 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4972279827674657, -2.9430414932373123, -1.2037065774202347)
+2025-08-19 13:12:03,739 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977195033075543, -2.9452283709633447, -1.2086124122142792)
+2025-08-19 13:12:04,741 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771632113607833, -2.945290112133963, -1.2085909694433212)
+2025-08-19 13:12:05,746 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49770941298000004, -2.9452432645254945, -1.2085741013288498)
+2025-08-19 13:12:06,747 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4976994336343945, -2.9452919290607604, -1.2085744738578796)
+2025-08-19 13:12:07,749 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977204850211514, -2.9452843325297335, -1.2085902392864227)
+2025-08-19 13:12:08,754 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977095247068771, -2.945361871159562, -1.2085768282413483)
+2025-08-19 13:12:09,756 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49772692139158947, -2.9452297750306595, -1.2085987031459808)
+2025-08-19 13:12:10,758 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49770868821392444, -2.945297997229911, -1.2085786908864975)
+2025-08-19 13:12:11,760 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977076633326232, -2.9452365891636214, -1.208564504981041)
+2025-08-19 13:12:12,765 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49772470631764476, -2.9452887008413424, -1.2085943222045898)
+2025-08-19 13:12:13,773 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771545092850733, -2.945326767059862, -1.2085978239774704)
+2025-08-19 13:12:14,775 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977066631296355, -2.945286479975408, -1.2085682302713394)
+2025-08-19 13:12:15,779 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49764145015626937, -2.9424270046866368, -1.2069116532802582)
+2025-08-19 13:12:16,782 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4972652231759723, -2.941950047841538, -1.2035871744155884)
+2025-08-19 13:12:17,783 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4970805436117769, -2.9462059430834224, -1.2041957527399063)
+2025-08-19 13:12:18,788 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977124950085262, -2.9452755885910276, -1.2085586935281754)
+2025-08-19 13:12:19,790 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771212441753165, -2.945192608126584, -1.2085789293050766)
+2025-08-19 13:12:20,792 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977113525985942, -2.945306427750538, -1.2085824310779572)
+2025-08-19 13:12:21,796 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771783922828416, -2.9453106505069697, -1.208579421043396)
+2025-08-19 13:12:22,798 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977118793205987, -2.9452912178555897, -1.2085707187652588)
+2025-08-19 13:12:23,800 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977051274343308, -2.9452556871884243, -1.2085713595151901)
+2025-08-19 13:12:24,804 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4976988407064252, -2.9453252171307214, -1.208587422966957)
+2025-08-19 13:12:25,806 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977094580355873, -2.9453150902483953, -1.2085832059383392)
+2025-08-19 13:12:26,807 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4976978234137962, -2.945315808378532, -1.2085816115140915)
+2025-08-19 13:12:27,809 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977259372566548, -2.9453404362120215, -1.2085832506418228)
+2025-08-19 13:12:28,813 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49770509304436883, -2.9453073653710065, -1.20858995616436)
+2025-08-19 13:12:29,814 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977207079183815, -2.9453434601230644, -1.2085620313882828)
+2025-08-19 13:12:30,816 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977166161370771, -2.9452943438074968, -1.2085814327001572)
+2025-08-19 13:12:31,818 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977193631967629, -2.9452929628273727, -1.208591029047966)
+2025-08-19 13:12:32,822 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4976269864744238, -2.9424340458393923, -1.2069570273160934)
+2025-08-19 13:12:33,824 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49771784953636966, -2.9453162188720095, -1.2085877805948257)
+2025-08-19 13:12:34,826 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977080921848761, -2.9452150035570384, -1.2085880041122437)
+2025-08-19 13:12:35,829 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977114975058312, -2.9452938900122394, -1.2086031138896942)
+2025-08-19 13:12:36,831 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49772754500449234, -2.945256864444725, -1.2086247503757477)
+2025-08-19 13:12:37,833 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.497737604858167, -2.9452958591114813, -1.2086243778467178)
+2025-08-19 13:12:38,838 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977225846844262, -2.945239403638634, -1.2085860073566437)
+2025-08-19 13:12:39,839 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977268548935506, -2.945290543563939, -1.208580031991005)
+2025-08-19 13:12:40,841 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977158511889326, -2.945249551804134, -1.2085752934217453)
+2025-08-19 13:12:41,843 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.49770941584672823, -2.945261515816796, -1.2085892409086227)
+2025-08-19 13:12:42,846 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.4977234208437723, -2.945234551334454, -1.2085914313793182)
+2025-08-19 13:12:43,570 - __main__ - INFO - Manual shutdown requested
+2025-08-19 13:12:43,571 - natnet_tracker - INFO - Stopping NatNet client...
+2025-08-19 13:18:07,777 - natnet_tracker - INFO - Initializing NatNet client: 192.168.41.124 -> 192.168.41.119
+2025-08-19 13:18:07,778 - natnet_tracker - INFO - Starting NatNet client threads...
+2025-08-19 13:18:07,778 - natnet_tracker - INFO - Waiting for NatNet connection establishment...
+2025-08-19 13:18:07,788 - natnet_tracker - INFO - First position received for rigid body ID 1
+2025-08-19 13:18:07,788 - natnet_tracker - INFO -   Position: x=-1.819, y=1.056, z=0.200
+2025-08-19 13:18:07,788 - natnet_tracker - INFO - First position received for rigid body ID 5
+2025-08-19 13:18:07,788 - natnet_tracker - INFO -   Position: x=2.145, y=-0.372, z=0.482
+2025-08-19 13:18:07,881 - natnet_tracker - INFO - Requesting model definitions...
+2025-08-19 13:18:08,882 - natnet_tracker - INFO - NatNet client successfully connected and streaming
+2025-08-19 13:18:08,883 - natnet_tracker - INFO - Server: Motive
+2025-08-19 13:18:08,883 - natnet_tracker - INFO - NatNet Version: 4.1.0.0
+2025-08-19 13:18:09,664 - mavlink_controller - INFO - MAVLink connected: /dev/ttyUSB0 @ 921600
+2025-08-19 13:18:09,665 - __main__ - INFO - Starting position detection phase
+2025-08-19 13:18:09,665 - __main__ - INFO - Position lock SUCCESS! Received 226 position updates
+2025-08-19 13:18:09,665 - __main__ - INFO - Performing pre-flight safety check...
+2025-08-19 13:18:09,665 - safety_checks - INFO - === PRE-FLIGHT SAFETY CHECK ===
+2025-08-19 13:18:09,665 - safety_checks - INFO - Checking OptiTrack stability...
+2025-08-19 13:18:14,684 - safety_checks - INFO - Checking battery...
+2025-08-19 13:18:14,689 - safety_checks - INFO - ✓ Pre-flight check PASSED
+2025-08-19 13:18:22,702 - __main__ - INFO - Arm command sent, proceeding to take‑off
+2025-08-19 13:18:22,703 - __main__ - INFO - Taking off to safe altitude: 1.0m
+2025-08-19 13:18:22,703 - mavlink_controller - INFO - Takeoff command: 1.0m altitude
+2025-08-19 13:18:22,705 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.0006223202675395, -0.3522814341061863, -1.1779375970363617)
+2025-08-19 13:18:22,706 - __main__ - INFO - Safety: Max altitude=1.0m, AGV timeout=10.0s, Battery threshold=15%
+2025-08-19 13:18:23,708 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.656873615066944, 0.12979576384568514, -1.1780139654874802)
+2025-08-19 13:18:24,710 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.5613616149669598, 0.18915287542653644, -1.1800802499055862)
+2025-08-19 13:18:25,715 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.9183186519076096, 0.20585299275661262, -1.1850344240665436)
+2025-08-19 13:18:26,717 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.5311536623268674, 0.21221993063666378, -1.1835831850767136)
+2025-08-19 13:18:27,719 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.5311902638111575, 0.21219945929954986, -1.1835755705833435)
+2025-08-19 13:18:28,721 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.5313597541195823, 0.21211575652836256, -1.1834864616394043)
+2025-08-19 13:18:29,723 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.5312017851199283, 0.21219355368679949, -1.1835968345403671)
+2025-08-19 13:18:30,725 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.2636344838658522, 0.10228183606299479, -1.1821127235889435)
+2025-08-19 13:18:31,728 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.05685339876521117, 0.11871855034671819, -1.1817794442176819)
+2025-08-19 13:18:32,732 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.6236560217250087, 0.10570990129148106, -1.1808037459850311)
+2025-08-19 13:18:33,734 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.2533439618671887, 0.011158211657471218, -1.1807665824890137)
+2025-08-19 13:18:34,736 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.6975793962515848, -0.17862542238586876, -1.17886520922184)
+2025-08-19 13:18:35,740 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.681385452637464, -0.3769561694763224, -1.179177924990654)
+2025-08-19 13:18:36,742 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.1072666639570683, -0.4075980760017483, -1.1767447739839554)
+2025-08-19 13:18:37,745 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.15168990918763525, -0.40063244600930137, -1.1722042560577393)
+2025-08-19 13:18:38,749 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.90256327691093, -0.3624402807057254, -1.1767412424087524)
+2025-08-19 13:18:39,752 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.7162084695889894, -0.2970790008760016, -1.1785657852888107)
+2025-08-19 13:18:40,754 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.0088734397314143, -0.1987254974797054, -1.1842166483402252)
+2025-08-19 13:18:41,757 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.5527885607205376, 0.12949864618891416, -1.1908794790506363)
+2025-08-19 13:18:42,760 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.4575900232332561, -0.5758053533499428, -1.1908122450113297)
+2025-08-19 13:18:43,762 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.4822487200198213, -1.9976265351098363, -1.1973242312669754)
+2025-08-19 13:18:44,765 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.6044905503553615, -3.077685395476999, -1.2068143635988235)
+2025-08-19 13:18:45,768 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.575764925713452, -3.6636944935370046, -1.210550144314766)
+2025-08-19 13:18:46,770 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.4929608524425149, -3.7112241198998026, -1.2103465348482132)
+2025-08-19 13:18:47,772 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.2774644271189706, -3.7321863286409687, -1.2073994278907776)
+2025-08-19 13:18:48,775 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.1816510480960143, -3.7306902324450855, -1.205838292837143)
+2025-08-19 13:18:49,777 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.15124616449746864, -3.745864012651148, -1.202446699142456)
+2025-08-19 13:18:50,782 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.34663905152404917, -3.6080872132199016, -1.2036940157413483)
+2025-08-19 13:18:51,784 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.3455386754787282, -2.226181693222253, -1.204552322626114)
+2025-08-19 13:18:52,786 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5350976927511337, -1.1620363915974143, -1.1918110996484756)
+2025-08-19 13:18:53,788 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.3901113182919155, -0.24887142481207708, -1.1838311403989792)
+2025-08-19 13:18:54,790 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.33864750107596875, 1.439022054863476, -1.1756122559309006)
+2025-08-19 13:18:55,792 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.20811317758186654, 1.1561084816583709, -1.1725926399230957)
+2025-08-19 13:18:56,795 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.16942425639291936, -0.7571165695278324, -1.1809560358524323)
+2025-08-19 13:18:57,799 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.2544918814689441, -2.1402345478236793, -1.1829180270433426)
+2025-08-19 13:18:58,802 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.7946845595603849, -2.106195941556031, -1.190601408481598)
+2025-08-19 13:18:59,804 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.004824440086377, -2.0058797329085687, -1.2020930051803589)
+2025-08-19 13:19:00,806 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.128790244883335, -1.9573202459452825, -1.2048711329698563)
+2025-08-19 13:19:01,809 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.8981380137576369, -2.0222133924697254, -1.2027575820684433)
+2025-08-19 13:19:02,812 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.8022364360655918, -2.1314288836163304, -1.1975287199020386)
+2025-08-19 13:19:03,814 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.036368454700318, -1.8604280740593977, -1.1848890334367752)
+2025-08-19 13:19:04,817 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.40986115336675916, -1.0504836178453527, -1.1855425983667374)
+2025-08-19 13:19:05,818 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.20617193060283057, 0.34889069169714626, -1.1793574392795563)
+2025-08-19 13:19:06,820 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.234158490937462, 1.5559271208974161, -1.173310935497284)
+2025-08-19 13:19:07,824 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.44764874926110887, 2.8992351256949918, -1.1664412319660187)
+2025-08-19 13:19:08,826 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.41686396190481056, 3.9399809589419656, -1.1609070599079132)
+2025-08-19 13:19:09,828 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.3104187823436537, 2.9239812456272256, -1.163211926817894)
+2025-08-19 13:19:10,832 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.3188343076026442, 0.9015181396841082, -1.167753204703331)
+2025-08-19 13:19:11,834 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.43357512648591856, 0.1995938850271195, -1.168693259358406)
+2025-08-19 13:19:12,836 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5223373035930208, 1.6108574449161281, -1.1707319021224976)
+2025-08-19 13:19:13,839 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.4962636169439961, 3.5204099358512906, -1.1656487584114075)
+2025-08-19 13:19:14,841 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.37148635392882506, 3.735668006830945, -1.1587664186954498)
+2025-08-19 13:19:15,843 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.3106538471032625, 2.014454044449859, -1.166825383901596)
+2025-08-19 13:19:16,845 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.3796111820329134, 0.32829509671004387, -1.163874015212059)
+2025-08-19 13:19:17,847 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.5453447142166697, 0.08569096408562171, -1.1701718419790268)
+2025-08-19 13:19:18,850 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.6654457646951062, -0.2107045561123967, -1.1787511706352234)
+2025-08-19 13:19:19,852 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.1921327011372456, -0.9018571894078673, -1.1874750256538391)
+2025-08-19 13:19:20,854 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.4331918877099787, -1.6597766070337792, -1.200547605752945)
+2025-08-19 13:19:21,857 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.39043812273091, -2.423101866393479, -1.207863301038742)
+2025-08-19 13:19:22,859 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.3752790625064062, -2.556788016396074, -1.2051275819540024)
+2025-08-19 13:19:23,861 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.17143021493017097, -2.601749315464871, -1.2042251080274582)
+2025-08-19 13:19:24,866 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.0063757935175526, -2.6715079549667338, -1.210549756884575)
+2025-08-19 13:19:25,868 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:26,871 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:27,875 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:28,877 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:29,882 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:30,884 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:31,887 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.615023326179916, -2.708984246161846, -1.2032205313444138)
+2025-08-19 13:19:32,888 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-2.588694057405252, 1.2155336212433085, -1.168582633137703)
+2025-08-19 13:19:33,891 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.9822395843441898, 1.776550409715155, -1.165139526128769)
+2025-08-19 13:19:34,893 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.2389064214410596, 1.8168884588988536, -1.1614283472299576)
+2025-08-19 13:19:35,896 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.3980268092874908, 1.9417460368404846, -1.167143926024437)
+2025-08-19 13:19:36,900 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.008835305502342, 2.0218426468424227, -1.1704406589269638)
+2025-08-19 13:19:37,903 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.5312699883278882, 1.1350440254978167, -1.1750517636537552)
+2025-08-19 13:19:38,905 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.06245940461204791, 0.24965933232241738, -1.1824022978544235)
+2025-08-19 13:19:39,909 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.015019363743524972, -1.5500838503836123, -1.1865808218717575)
+2025-08-19 13:19:40,911 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.10597580764085543, -2.9588156754543964, -1.1950034350156784)
+2025-08-19 13:19:41,914 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.2023539498307233, -2.2580878904929835, -1.1975438445806503)
+2025-08-19 13:19:42,917 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.22368749777156005, -0.2305128423167312, -1.1861878037452698)
+2025-08-19 13:19:43,920 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.12086224664444577, 0.785548704745045, -1.1786142885684967)
+2025-08-19 13:19:44,925 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.023144227291111097, -0.3458175050067724, -1.1857761591672897)
+2025-08-19 13:19:45,927 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:46,929 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:47,934 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:48,936 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:49,938 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:50,941 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:51,943 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:52,946 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:53,950 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:54,953 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:55,955 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:56,959 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:57,961 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:58,965 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:19:59,967 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:00,969 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:01,971 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:02,975 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:03,977 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:04,982 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:05,984 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:06,986 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:07,988 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:08,993 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:09,995 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:10,997 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:12,002 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:13,005 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:14,009 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:15,011 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:16,014 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:17,018 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:18,020 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:19,024 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:20,028 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:21,033 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:22,035 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:23,037 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:24,041 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:25,043 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:26,048 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:27,052 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:28,054 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:29,056 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:30,059 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:31,061 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:32,063 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:33,067 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:34,069 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:35,072 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:36,076 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:37,078 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:38,081 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:39,085 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.5562997326007719, -0.8165018712137061, -1.1905122995376587)
+2025-08-19 13:20:40,087 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.8863412184744307, -1.5005779439818907, -1.1946110874414444)
+2025-08-19 13:20:41,092 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.233229109220163, -0.882503393633232, -1.1817453652620316)
+2025-08-19 13:20:42,093 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.18775339460874263, -0.9351263953222613, -1.1816053241491318)
+2025-08-19 13:20:43,095 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.8379934928294213, -0.8495578558099914, -1.1810780763626099)
+2025-08-19 13:20:44,098 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.5140565760610754, -0.72694258970322, -1.1963984370231628)
+2025-08-19 13:20:45,101 - mavlink_controller - INFO - Sent waypoint relative to AGV: (1.0614284440728583, -0.6955547448631164, -1.197835385799408)
+2025-08-19 13:20:46,103 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.8431661855743091, -0.7940868403642007, -1.1894860416650772)
+2025-08-19 13:20:47,106 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.0153617373490595, -0.908494858614779, -1.181075558066368)
+2025-08-19 13:20:48,109 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.7569487229794801, -0.9062425241770393, -1.1784873306751251)
+2025-08-19 13:20:49,112 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.4227589969934527, -0.7899854962028121, -1.1873611062765121)
+2025-08-19 13:20:50,114 - mavlink_controller - INFO - Sent waypoint relative to AGV: (2.14660275015747, -0.7117682277305334, -1.1983572393655777)
+2025-08-19 13:20:51,119 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.22061040384231423, -0.7450554740395601, -1.1971464157104492)
+2025-08-19 13:20:52,122 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-1.1904038624296818, -0.8603120060913199, -1.1824640184640884)
+2025-08-19 13:20:53,126 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7271507622269054, -1.0967648237971277, -1.1809531450271606)
+2025-08-19 13:20:54,128 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153791424531732, -1.104626275318529, -1.1824912279844284)
+2025-08-19 13:20:55,131 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.715346717105691, -1.1046459984378536, -1.1824872195720673)
+2025-08-19 13:20:56,135 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154010110556644, -1.1046083465089462, -1.182461440563202)
+2025-08-19 13:20:57,137 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154313552202006, -1.1046073091052224, -1.1824869364500046)
+2025-08-19 13:20:58,139 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153887636558044, -1.104632389431106, -1.1824597865343094)
+2025-08-19 13:20:59,144 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153873769243425, -1.1046343786516784, -1.1824804991483688)
+2025-08-19 13:21:00,146 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153799136562867, -1.1046194184099012, -1.182463213801384)
+2025-08-19 13:21:01,149 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154144940844509, -1.1046074086724915, -1.182460069656372)
+2025-08-19 13:21:02,154 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153597236778302, -1.104655614634328, -1.1824801564216614)
+2025-08-19 13:21:03,156 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153966428311372, -1.1046398153805954, -1.1824948638677597)
+2025-08-19 13:21:04,158 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154284736852408, -1.1046095853697568, -1.1824848055839539)
+2025-08-19 13:21:05,160 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153841414787292, -1.1046364908143582, -1.1824803799390793)
+2025-08-19 13:21:06,162 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153813543330012, -1.1046315507483966, -1.1824729889631271)
+2025-08-19 13:21:07,164 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153987101092304, -1.1046306244052093, -1.18247190117836)
+2025-08-19 13:21:08,167 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153666387569364, -1.104643997271054, -1.1824747025966644)
+2025-08-19 13:21:09,170 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7153922147701405, -1.104629560885426, -1.1824688017368317)
+2025-08-19 13:21:10,172 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154112113823602, -1.1046109284531005, -1.1824574172496796)
+2025-08-19 13:21:11,174 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154149537976265, -1.1046110552394004, -1.1824643909931183)
+2025-08-19 13:21:12,178 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154018769086724, -1.10462871215698, -1.182476595044136)
+2025-08-19 13:21:13,180 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7154444766736278, -1.1045895665305625, -1.1824689358472824)
+2025-08-19 13:21:14,185 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.7052598344463998, -1.1000976619527705, -1.1822611838579178)
+2025-08-19 13:21:15,187 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.6798039005631566, -1.071223480724271, -1.1828762143850327)
+2025-08-19 13:21:16,189 - mavlink_controller - INFO - Sent waypoint relative to AGV: (-0.36611928114319503, -0.9213978756136285, -1.1818864941596985)
+2025-08-19 13:21:17,194 - mavlink_controller - INFO - Sent waypoint relative to AGV: (0.39963171511753515, -0.8465591475389853, -1.1832091957330704)

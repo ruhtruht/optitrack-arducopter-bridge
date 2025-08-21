@@ -1,0 +1,1038 @@
+
+MoCap Frame: 1210981
+
+7
+1
+ MoCap Frame Begin
+-----------------
+Frame #: 1210981
+  Markerset Count:  3
+    MarkerData:
+    Model Name : AGV_001
+    Marker Count :  5
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+    MarkerData:
+    Model Name : Qmed_1
+    Marker Count :  4
+      Marker   0 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   1 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   2 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   3 pos :
+             [x=-2.24,y=0.01,z=0.16]
+    MarkerData:
+    Model Name : all
+    Marker Count :  9
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+      Marker   5 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   6 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   7 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   8 pos :
+             [x=-2.24,y=0.01,z=0.16]
+  Unlabeled Marker Count:  0
+    MarkerData:
+    Marker Count :  0
+  Rigid Body Count:   2
+    Rigid Body    :   0
+      ID            :   7
+      Position      : [-2.24, 0.12, 0.24]
+      Orientation   : [-0.01, 0.05, -0.03, -1.00]
+      Marker Error  : 0.00
+    Tracking Valid: True
+    Rigid Body    :   1
+      ID            :   1
+      Position      : [-0.41, 1.13, 0.19]
+      Orientation   : [0.02, -0.00, 0.91, 0.40]
+      Marker Error  : 0.00
+    Tracking Valid: True
+  Skeleton Count:   0
+  Asset Count:   0
+  Labeled Marker Count:  9
+      Labeled Marker 0:
+      ID                 : [MarkerID:   1] [ModelID:   7]
+        
+      pos                : [-2.30, 0.12, 0.30]
+      size               : [0.02]
+      err                : [1.86]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 1:
+      ID                 : [MarkerID:   2] [ModelID:   7]
+        
+      pos                : [-2.22, 0.11, 0.33]
+      size               : [0.02]
+      err                : [0.41]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 2:
+      ID                 : [MarkerID:   3] [ModelID:   7]
+        
+      pos                : [-2.21, 0.23, 0.16]
+      size               : [0.01]
+      err                : [1.74]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 3:
+      ID                 : [MarkerID:   4] [ModelID:   7]
+        
+      pos                : [-2.24, 0.01, 0.16]
+      size               : [0.01]
+      err                : [1.66]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 4:
+      ID                 : [MarkerID:   1] [ModelID:   1]
+        
+      pos                : [-0.28, 1.30, 0.16]
+      size               : [0.02]
+      err                : [1.22]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 5:
+      ID                 : [MarkerID:   2] [ModelID:   1]
+        
+      pos                : [-0.58, 1.01, 0.16]
+      size               : [0.02]
+      err                : [1.86]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 6:
+      ID                 : [MarkerID:   3] [ModelID:   1]
+        
+      pos                : [-0.35, 1.07, 0.29]
+      size               : [0.02]
+      err                : [2.94]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 7:
+      ID                 : [MarkerID:   4] [ModelID:   1]
+        
+      pos                : [-0.24, 0.93, 0.15]
+      size               : [0.02]
+      err                : [2.27]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 8:
+      ID                 : [MarkerID:   5] [ModelID:   1]
+        
+      pos                : [-0.61, 1.36, 0.16]
+      size               : [0.02]
+      err                : [1.75]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+  Force Plate Count:   0
+  Device Count:   0
+  Timecode: 00:00:00:00:00
+  Timestamp                      : 10091.508
+  Mid-exposure timestamp         : 123684768755
+  Camera data received timestamp : 123684817260
+  Transmit timestamp             : 123684841424
+MoCap Frame End
+-----------------
+
+
+MoCap Frame: 1210982
+
+MoCap Frame: 1210983
+
+MoCap Frame: 1210984
+
+MoCap Frame: 1210985
+
+MoCap Frame: 1210986
+
+MoCap Frame: 1210987
+
+MoCap Frame: 1210988
+
+MoCap Frame: 1210989
+
+MoCap Frame: 1210990
+
+MoCap Frame: 1210991
+
+MoCap Frame: 1210992
+
+MoCap Frame: 1210993
+
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+MoCap Frame: 1210994
+
+MoCap Frame: 1210995
+
+MoCap Frame: 1210996
+
+MoCap Frame: 1210997
+
+MoCap Frame: 1210998
+
+MoCap Frame: 1210999
+
+MoCap Frame: 1211000
+
+MoCap Frame: 1211001
+
+7
+1
+ MoCap Frame Begin
+-----------------
+Frame #: 1211001
+  Markerset Count:  3
+    MarkerData:
+    Model Name : AGV_001
+    Marker Count :  5
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+    MarkerData:
+    Model Name : Qmed_1
+    Marker Count :  4
+      Marker   0 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   1 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   2 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   3 pos :
+             [x=-2.24,y=0.01,z=0.16]
+    MarkerData:
+    Model Name : all
+    Marker Count :  9
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+      Marker   5 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   6 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   7 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   8 pos :
+             [x=-2.24,y=0.01,z=0.16]
+  Unlabeled Marker Count:  0
+    MarkerData:
+    Marker Count :  0
+  Rigid Body Count:   2
+    Rigid Body    :   0
+      ID            :   7
+      Position      : [-2.24, 0.12, 0.24]
+      Orientation   : [-0.01, 0.05, -0.03, -1.00]
+      Marker Error  : 0.00
+    Tracking Valid: True
+    Rigid Body    :   1
+      ID            :   1
+      Position      : [-0.41, 1.13, 0.19]
+      Orientation   : [0.02, -0.00, 0.91, 0.40]
+      Marker Error  : 0.00
+    Tracking Valid: True
+  Skeleton Count:   0
+  Asset Count:   0
+  Labeled Marker Count:  9
+      Labeled Marker 0:
+      ID                 : [MarkerID:   1] [ModelID:   7]
+        
+      pos                : [-2.30, 0.12, 0.30]
+      size               : [0.02]
+      err                : [1.83]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 1:
+      ID                 : [MarkerID:   2] [ModelID:   7]
+        
+      pos                : [-2.22, 0.11, 0.33]
+      size               : [0.02]
+      err                : [0.39]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 2:
+      ID                 : [MarkerID:   3] [ModelID:   7]
+        
+      pos                : [-2.21, 0.23, 0.16]
+      size               : [0.01]
+      err                : [1.75]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 3:
+      ID                 : [MarkerID:   4] [ModelID:   7]
+        
+      pos                : [-2.24, 0.01, 0.16]
+      size               : [0.01]
+      err                : [1.66]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 4:
+      ID                 : [MarkerID:   1] [ModelID:   1]
+        
+      pos                : [-0.28, 1.30, 0.16]
+      size               : [0.02]
+      err                : [1.24]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 5:
+      ID                 : [MarkerID:   2] [ModelID:   1]
+        
+      pos                : [-0.58, 1.01, 0.16]
+      size               : [0.02]
+      err                : [1.87]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 6:
+      ID                 : [MarkerID:   3] [ModelID:   1]
+        
+      pos                : [-0.35, 1.07, 0.29]
+      size               : [0.02]
+      err                : [2.92]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 7:
+      ID                 : [MarkerID:   4] [ModelID:   1]
+        
+      pos                : [-0.24, 0.93, 0.15]
+      size               : [0.02]
+      err                : [2.26]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 8:
+      ID                 : [MarkerID:   5] [ModelID:   1]
+        
+      pos                : [-0.61, 1.36, 0.16]
+      size               : [0.02]
+      err                : [1.77]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+  Force Plate Count:   0
+  Device Count:   0
+  Timecode: 00:00:00:00:00
+  Timestamp                      : 10091.675
+  Mid-exposure timestamp         : 123686435423
+  Camera data received timestamp : 123686485046
+  Transmit timestamp             : 123686506636
+MoCap Frame End
+-----------------
+
+
+MoCap Frame: 1211002
+
+MoCap Frame: 1211003
+
+MoCap Frame: 1211004
+
+MoCap Frame: 1211005
+
+MoCap Frame: 1211006
+
+MoCap Frame: 1211007
+
+MoCap Frame: 1211008
+
+MoCap Frame: 1211009
+
+MoCap Frame: 1211010
+
+MoCap Frame: 1211011
+
+MoCap Frame: 1211012
+
+MoCap Frame: 1211013
+
+MoCap Frame: 1211014
+
+MoCap Frame: 1211015
+
+MoCap Frame: 1211016
+
+MoCap Frame: 1211017
+
+MoCap Frame: 1211018
+
+MoCap Frame: 1211019
+
+MoCap Frame: 1211020
+
+MoCap Frame: 1211021
+
+7
+1
+ MoCap Frame Begin
+-----------------
+Frame #: 1211021
+  Markerset Count:  3
+    MarkerData:
+    Model Name : AGV_001
+    Marker Count :  5
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+    MarkerData:
+    Model Name : Qmed_1
+    Marker Count :  4
+      Marker   0 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   1 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   2 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   3 pos :
+             [x=-2.24,y=0.01,z=0.16]
+    MarkerData:
+    Model Name : all
+    Marker Count :  9
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+      Marker   5 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   6 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   7 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   8 pos :
+             [x=-2.24,y=0.01,z=0.16]
+  Unlabeled Marker Count:  0
+    MarkerData:
+    Marker Count :  0
+  Rigid Body Count:   2
+    Rigid Body    :   0
+      ID            :   7
+      Position      : [-2.24, 0.12, 0.24]
+      Orientation   : [-0.01, 0.05, -0.03, -1.00]
+      Marker Error  : 0.00
+    Tracking Valid: True
+    Rigid Body    :   1
+      ID            :   1
+      Position      : [-0.41, 1.13, 0.19]
+      Orientation   : [0.02, -0.00, 0.91, 0.40]
+      Marker Error  : 0.00
+    Tracking Valid: True
+  Skeleton Count:   0
+  Asset Count:   0
+  Labeled Marker Count:  9
+      Labeled Marker 0:
+      ID                 : [MarkerID:   1] [ModelID:   7]
+        
+      pos                : [-2.30, 0.12, 0.30]
+      size               : [0.02]
+      err                : [1.86]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 1:
+      ID                 : [MarkerID:   2] [ModelID:   7]
+        
+      pos                : [-2.22, 0.11, 0.33]
+      size               : [0.02]
+      err                : [0.41]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 2:
+      ID                 : [MarkerID:   3] [ModelID:   7]
+        
+      pos                : [-2.21, 0.23, 0.16]
+      size               : [0.01]
+      err                : [1.73]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 3:
+      ID                 : [MarkerID:   4] [ModelID:   7]
+        
+      pos                : [-2.24, 0.01, 0.16]
+      size               : [0.01]
+      err                : [1.66]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 4:
+      ID                 : [MarkerID:   1] [ModelID:   1]
+        
+      pos                : [-0.28, 1.30, 0.16]
+      size               : [0.02]
+      err                : [1.24]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 5:
+      ID                 : [MarkerID:   2] [ModelID:   1]
+        
+      pos                : [-0.58, 1.01, 0.16]
+      size               : [0.02]
+      err                : [1.88]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 6:
+      ID                 : [MarkerID:   3] [ModelID:   1]
+        
+      pos                : [-0.35, 1.07, 0.29]
+      size               : [0.02]
+      err                : [2.94]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 7:
+      ID                 : [MarkerID:   4] [ModelID:   1]
+        
+      pos                : [-0.24, 0.93, 0.15]
+      size               : [0.02]
+      err                : [2.24]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 8:
+      ID                 : [MarkerID:   5] [ModelID:   1]
+        
+      pos                : [-0.61, 1.36, 0.16]
+      size               : [0.02]
+      err                : [1.76]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+  Force Plate Count:   0
+  Device Count:   0
+  Timecode: 00:00:00:00:00
+  Timestamp                      : 10091.842
+  Mid-exposure timestamp         : 123688102249
+  Camera data received timestamp : 123688150164
+  Transmit timestamp             : 123688166821
+MoCap Frame End
+-----------------
+
+
+MoCap Frame: 1211022
+
+MoCap Frame: 1211023
+
+MoCap Frame: 1211024
+
+MoCap Frame: 1211025
+
+MoCap Frame: 1211026
+
+MoCap Frame: 1211027
+
+MoCap Frame: 1211028
+
+MoCap Frame: 1211029
+
+MoCap Frame: 1211030
+
+MoCap Frame: 1211031
+
+MoCap Frame: 1211032
+
+MoCap Frame: 1211033
+
+MoCap Frame: 1211034
+
+MoCap Frame: 1211035
+
+MoCap Frame: 1211036
+
+MoCap Frame: 1211037
+
+MoCap Frame: 1211038
+
+MoCap Frame: 1211039
+
+MoCap Frame: 1211040
+
+MoCap Frame: 1211041
+
+7
+1
+ MoCap Frame Begin
+-----------------
+Frame #: 1211041
+  Markerset Count:  3
+    MarkerData:
+    Model Name : AGV_001
+    Marker Count :  5
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+    MarkerData:
+    Model Name : Qmed_1
+    Marker Count :  4
+      Marker   0 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   1 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   2 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   3 pos :
+             [x=-2.24,y=0.01,z=0.16]
+    MarkerData:
+    Model Name : all
+    Marker Count :  9
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+      Marker   5 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   6 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   7 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   8 pos :
+             [x=-2.24,y=0.01,z=0.16]
+  Unlabeled Marker Count:  0
+    MarkerData:
+    Marker Count :  0
+  Rigid Body Count:   2
+    Rigid Body    :   0
+      ID            :   7
+      Position      : [-2.24, 0.12, 0.24]
+      Orientation   : [-0.01, 0.04, -0.03, -1.00]
+      Marker Error  : 0.00
+    Tracking Valid: True
+    Rigid Body    :   1
+      ID            :   1
+      Position      : [-0.41, 1.13, 0.19]
+      Orientation   : [0.02, -0.00, 0.91, 0.40]
+      Marker Error  : 0.00
+    Tracking Valid: True
+  Skeleton Count:   0
+  Asset Count:   0
+  Labeled Marker Count:  9
+      Labeled Marker 0:
+      ID                 : [MarkerID:   1] [ModelID:   7]
+        
+      pos                : [-2.30, 0.12, 0.30]
+      size               : [0.02]
+      err                : [1.84]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 1:
+      ID                 : [MarkerID:   2] [ModelID:   7]
+        
+      pos                : [-2.22, 0.11, 0.33]
+      size               : [0.02]
+      err                : [0.44]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 2:
+      ID                 : [MarkerID:   3] [ModelID:   7]
+        
+      pos                : [-2.21, 0.23, 0.16]
+      size               : [0.01]
+      err                : [1.71]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 3:
+      ID                 : [MarkerID:   4] [ModelID:   7]
+        
+      pos                : [-2.24, 0.01, 0.16]
+      size               : [0.01]
+      err                : [1.66]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 4:
+      ID                 : [MarkerID:   1] [ModelID:   1]
+        
+      pos                : [-0.28, 1.30, 0.16]
+      size               : [0.02]
+      err                : [1.23]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 5:
+      ID                 : [MarkerID:   2] [ModelID:   1]
+        
+      pos                : [-0.58, 1.01, 0.16]
+      size               : [0.02]
+      err                : [1.87]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 6:
+      ID                 : [MarkerID:   3] [ModelID:   1]
+        
+      pos                : [-0.35, 1.07, 0.29]
+      size               : [0.02]
+      err                : [2.94]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 7:
+      ID                 : [MarkerID:   4] [ModelID:   1]
+        
+      pos                : [-0.24, 0.93, 0.15]
+      size               : [0.02]
+      err                : [2.26]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 8:
+      ID                 : [MarkerID:   5] [ModelID:   1]
+        
+      pos                : [-0.61, 1.36, 0.16]
+      size               : [0.02]
+      err                : [1.76]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+  Force Plate Count:   0
+  Device Count:   0
+  Timecode: 00:00:00:00:00
+  Timestamp                      : 10092.008
+  Mid-exposure timestamp         : 123689768913
+  Camera data received timestamp : 123689817191
+  Transmit timestamp             : 123689841151
+MoCap Frame End
+-----------------
+
+
+MoCap Frame: 1211042
+
+MoCap Frame: 1211043
+
+MoCap Frame: 1211044
+
+MoCap Frame: 1211045
+
+MoCap Frame: 1211046
+
+MoCap Frame: 1211047
+
+MoCap Frame: 1211048
+
+MoCap Frame: 1211049
+
+MoCap Frame: 1211050
+
+MoCap Frame: 1211051
+
+MoCap Frame: 1211052
+
+MoCap Frame: 1211053
+
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+MoCap Frame: 1211054
+
+MoCap Frame: 1211055
+
+MoCap Frame: 1211056
+
+MoCap Frame: 1211057
+
+MoCap Frame: 1211058
+
+MoCap Frame: 1211059
+
+MoCap Frame: 1211060
+
+MoCap Frame: 1211061
+
+7
+1
+ MoCap Frame Begin
+-----------------
+Frame #: 1211061
+  Markerset Count:  3
+    MarkerData:
+    Model Name : AGV_001
+    Marker Count :  5
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+    MarkerData:
+    Model Name : Qmed_1
+    Marker Count :  4
+      Marker   0 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   1 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   2 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   3 pos :
+             [x=-2.24,y=0.01,z=0.16]
+    MarkerData:
+    Model Name : all
+    Marker Count :  9
+      Marker   0 pos :
+             [x=-0.28,y=1.30,z=0.16]
+      Marker   1 pos :
+             [x=-0.58,y=1.01,z=0.16]
+      Marker   2 pos :
+             [x=-0.35,y=1.07,z=0.29]
+      Marker   3 pos :
+             [x=-0.24,y=0.93,z=0.15]
+      Marker   4 pos :
+             [x=-0.61,y=1.36,z=0.16]
+      Marker   5 pos :
+             [x=-2.30,y=0.12,z=0.30]
+      Marker   6 pos :
+             [x=-2.22,y=0.11,z=0.33]
+      Marker   7 pos :
+             [x=-2.21,y=0.23,z=0.16]
+      Marker   8 pos :
+             [x=-2.24,y=0.01,z=0.16]
+  Unlabeled Marker Count:  0
+    MarkerData:
+    Marker Count :  0
+  Rigid Body Count:   2
+    Rigid Body    :   0
+      ID            :   7
+      Position      : [-2.24, 0.12, 0.24]
+      Orientation   : [-0.01, 0.04, -0.03, -1.00]
+      Marker Error  : 0.00
+    Tracking Valid: True
+    Rigid Body    :   1
+      ID            :   1
+      Position      : [-0.41, 1.13, 0.19]
+      Orientation   : [0.02, -0.00, 0.91, 0.40]
+      Marker Error  : 0.00
+    Tracking Valid: True
+  Skeleton Count:   0
+  Asset Count:   0
+  Labeled Marker Count:  9
+      Labeled Marker 0:
+      ID                 : [MarkerID:   1] [ModelID:   7]
+        
+      pos                : [-2.30, 0.12, 0.30]
+      size               : [0.02]
+      err                : [1.85]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 1:
+      ID                 : [MarkerID:   2] [ModelID:   7]
+        
+      pos                : [-2.22, 0.11, 0.33]
+      size               : [0.02]
+      err                : [0.40]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 2:
+      ID                 : [MarkerID:   3] [ModelID:   7]
+        
+      pos                : [-2.21, 0.23, 0.16]
+      size               : [0.01]
+      err                : [1.77]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 3:
+      ID                 : [MarkerID:   4] [ModelID:   7]
+        
+      pos                : [-2.24, 0.01, 0.16]
+      size               : [0.01]
+      err                : [1.65]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 4:
+      ID                 : [MarkerID:   1] [ModelID:   1]
+        
+      pos                : [-0.28, 1.30, 0.16]
+      size               : [0.02]
+      err                : [1.24]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 5:
+      ID                 : [MarkerID:   2] [ModelID:   1]
+        
+      pos                : [-0.58, 1.01, 0.16]
+      size               : [0.02]
+      err                : [1.86]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 6:
+      ID                 : [MarkerID:   3] [ModelID:   1]
+        
+      pos                : [-0.35, 1.07, 0.29]
+      size               : [0.02]
+      err                : [2.94]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 7:
+      ID                 : [MarkerID:   4] [ModelID:   1]
+        
+      pos                : [-0.24, 0.93, 0.15]
+      size               : [0.02]
+      err                : [2.26]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      Labeled Marker 8:
+      ID                 : [MarkerID:   5] [ModelID:   1]
+        
+      pos                : [-0.61, 1.36, 0.16]
+      size               : [0.02]
+      err                : [1.78]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+  Force Plate Count:   0
+  Device Count:   0
+  Timecode: 00:00:00:00:00
+  Timestamp                      : 10092.175
+  Mid-exposure timestamp         : 123691435476
+  Camera data received timestamp : 123691485548
+  Transmit timestamp             : 123691503776
+MoCap Frame End
+-----------------
+
+
+MoCap Frame: 1211062
+
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+AGV Pos: x=-0.41 y=1.13 z=0.19
+QMED Pos: x=-2.24 y=0.12 z=0.24
+----------------------------------------
+^CBeende...
+shutdown called
+shutting down
