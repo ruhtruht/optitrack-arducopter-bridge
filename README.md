@@ -3,6 +3,34 @@
 # optitrack-arducopter-bridge
 
 This repository contains a Python-based system for integrating OptiTrack motion capture data with MAVLink-enabled drones. It enables GPS-independent indoor navigation by converting motion capture position estimates (via the NatNet SDK) into real-time MAVLink messages, which are sent to a Pixhawk-based flight controller running ArduCopter firmware.
+<div align="center">
+  <!-- Reihe 1 -->
+  <a href="https://github.com/user-attachments/assets/7a6f67bd-967a-4100-976f-123182c3310a">
+    <img src="https://github.com/user-attachments/assets/7a6f67bd-967a-4100-976f-123182c3310a"
+         alt="(a) QMED Flight Controller im Aufbau"
+         width="48%" loading="lazy">
+  </a>
+  <a href="https://github.com/user-attachments/assets/c53e6bbd-831e-418c-aec7-d6f9ecbeaf76">
+    <img src="https://github.com/user-attachments/assets/c53e6bbd-831e-418c-aec7-d6f9ecbeaf76"
+         alt="(b) Telemetrie/FC-Verkabelung"
+         width="48%" loading="lazy">
+  </a>
+  <br>
+  <!-- Reihe 2 -->
+  <a href="https://github.com/user-attachments/assets/07507aba-7c86-4b86-93ab-dbff3bd2d209">
+    <img src="https://github.com/user-attachments/assets/07507aba-7c86-4b86-93ab-dbff3bd2d209"
+         alt="(c) N/E-Trajektorie (OptiTrack ENU → NED → MAVLink)"
+         width="48%" loading="lazy">
+  </a>
+  <a href="https://github.com/user-attachments/assets/46250125-c15e-4318-90b7-6ed608e5d02e">
+    <img src="https://github.com/user-attachments/assets/46250125-c15e-4318-90b7-6ed608e5d02e"
+         alt="(d) Setup/Tests – Indoor-Aufbau"
+         width="48%" loading="lazy">
+  </a>
+  <br>
+  <sub><b>Abb. 1:</b> (a) QMED Flight Controller • (b) Telemetrie/FC • (c) N/E-Trajektorie • (d) Setup/Tests.</sub>
+</div>
+
 
 The system was developed and tested in the context of a bachelor's thesis on autonomous aerial tracking of ground robots in constrained indoor environments.
 
@@ -15,6 +43,7 @@ The software stack implements a complete pipeline for indoor drone localization 
 - High-frequency (20 Hz) MAVLink message generation
 - Autopilot control using ArduPilot in GUIDED mode
 - System-level safety features: timeout detection, emergency land procedures, position validation
+
 
 ## Architecture
 
